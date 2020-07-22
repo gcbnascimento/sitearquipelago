@@ -3,8 +3,8 @@
                <div class="col-lg-10 offset-lg-1 text-center">
                   <!-- section heading -->  
                   <div class="section-heading text-center">
-                     <h2>Contato</h2>
-                     <p class="subtitle">Entre em contato conosco</p>
+                     <h2>Contate-nos</h2>
+                     <p class="subtitle">Fale com a franqueadora</p>
                   </div>
                   <!-- /section-heading -->  
                   <!-- contact info boxes start-->

@@ -27,7 +27,7 @@
                   <!-- text  -->
                   <div class="ls-l header-wrapper" data-ls="offsetyin:150; durationin:700; delayin:200; easingin:easeOutQuint; rotatexin:20; scalexin:1.4; offsetyout:600; durationout:400;">
                      <div class="header-text">
-                        <span>Bem-vindo ao</span> 
+                        <span>Bem-vindo ao </span> 
                         <h1> Arquipélago do Saber</h1>
                         <!--the div below is hidden on small screens  -->
                         <div class="hidden-small">
@@ -245,7 +245,7 @@
                                  <i class="flaticon-classroom-1 text-primary"></i>
                               </div>
                               <h5>Apoio</h5>
-                              <p>Apoio em marketing, gestão e todos os processos da unidade.</p>
+                              <p>Não medimos esforços para que o aluno aprenda de verdade e no seu ritmo.</p>
                            </div>
                            <!-- /feature-with-icon-->
                            <!-- feature -->
@@ -489,7 +489,7 @@
             <div class="container pb-5">
                <!-- section heading -->  
                <div class="section-heading text-center">
-                  <h2>DEFERENCIAIS</h2>
+                  <h2>OUTROS DIFERENCIAIS:</h2>
                   <p class="subtitle">MAIS DE 27 ANOS DE EXPERIÊNCIA ENSINANDO COM AMOR E CARINHO</p>
                </div>
                <!-- /section heading -->
@@ -500,11 +500,11 @@
                      <div class="tabs-with-icon">
                         <nav>
                            <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                              <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>HORÁRIO FLEXÍVEIS</a>
-                              <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Summer Camp</a>
-                              <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Infant care</a>
-                              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Classes</a>
-                              <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Activities</a>
+                              <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>Horários Flexíveis</a>
+                              <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Evolução</a>
+                              <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Felicidade</a>
+                              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Interação</a>
+                              <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Humanização</a>
                            </div>
                         </nav>
                         <!-- tab-content -->
@@ -659,7 +659,7 @@
                            <i class="counter-icon flaticon-teacher"></i>
                            <!-- insert your final value on data-count= -->
                            <div class="counter-value" data-count="40">0</div>
-                           <h3 class="title">Professionais</h3>
+                           <h3 class="title">Profissionais</h3>
                         </div>
                      </div>
                      <!-- /counter -->
@@ -706,14 +706,14 @@
             <!-- /section-heading -->  
             <div class="row">
                <div class="col-lg-7">
-                  <h3>Conheça nossa equipe talentosa</h3>
+                  <h3>Equipe nota 1000</h3>
                   <p>Nosso propósito é que todas as crianças consigam aprender,
                      tendo respeitadas as suas diferenças, peculiaridades e
-                      habilidades, sendo trabalhadas da forma correto.
+                      habilidades, sendo trabalhadas da forma correta.
                   </p>
                   <ul class="checkmark pl-0 font-weight-bold">
-                     <li>Mais de 40 profissionais qualificados.</li>
-                     <li>Oferecemos nossos serviços de qualidade desde 2002.</li>
+                     <li>Profissionais treinados e qualificados.</li>
+                     <li>Oferecemos nossos serviços de qualidade desde 1992.</li>
                      <li>Atividades divertidas e educacionais em nosso plano diário.</li>
                   </ul>
                   <!-- /ul-->

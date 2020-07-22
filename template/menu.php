@@ -91,11 +91,19 @@
                            </a>
                            <div class="dropdown-menu" aria-labelledby="services-dropdown">
                               <a class="dropdown-item" href="pagcursos.php">Todos os cursos</a>
-                              <a class="dropdown-item" href="services2.html">Português</a>
-                              <a class="dropdown-item" href="services2.html">Matemática</a>
-                              <a class="dropdown-item" href="services-single.html">Informática</a>
-                              <a class="dropdown-item" href="services.html">Robótica</a>
-                              <a class="dropdown-item" href="services2.html">Libras</a>
+                              <a class="dropdown-item" href="/sitearquipelago/cursos/port1.php">Português 1º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/port2.php">Português 2º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/port3.php">Português 3º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/port4.php">Português 4º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/port5.php">Português 5º Ano</a>
+                              <a class="dropdown-item" href="/sitearquipelago/cursos/mat1.php">Matemática 1º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/mat2.php">Matemática 2º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/mat3.php">Matemática 3º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/mat4.php">Matemática 4º Ano</a>
+							  <a class="dropdown-item" href="/sitearquipelago/cursos/mat5.php">Matemática 5º Ano</a>
+                              <a class="dropdown-item" href="/sitearquipelago/cursos/Informatica.php">Informática</a>
+                              <a class="dropdown-item" href="/sitearquipelago/cursos/robotica.php">Robótica</a>
+                              <a class="dropdown-item" href="/sitearquipelago/cursos/libras.php">Libras</a>
                            </div>
                         </li>
                         <!-- menu item -->

@@ -56,12 +56,12 @@
                </div>
                <!--/ col-lg -->
                <div class="col-lg-4 text-center">
-                  <h5> Jornada de trabalho</h5>
+                  <h5> Horário de trabalho</h5>
                   <ul class="list-unstyled mt-3">
                      <li class="mb-1">Segunda a Sexta</li>
-                     <li class="mb-1">Aberto das 8h às 19h</li>
-                     <li class="mb-1">Sábados das 8h às 16h</li>
-                     <li>Domingos - Fechado</li>
+                     <li class="mb-1">Das 8h às 18h</li>
+                     <li class="mb-1">Sábado, domingo e feriados fechado</li>
+                     
                   </ul>
                   <!--/ul -->
                </div>

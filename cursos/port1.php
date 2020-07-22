@@ -39,9 +39,9 @@
                         <div class="row">
                            <div class="col-md-5">
                               <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                                 <img src="../img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                                 <img src="../img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                                 <img src="../img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                                 <img src="../img/services/port1/service-single1.jpg" class="img-fluid rounded-circle" alt="">
+                                 <img src="../img/services/port1/service-single2.jpg" class="img-fluid rounded-circle" alt="">
+                                 <img src="../img/services/port1/service-single3.jpg" class="img-fluid rounded-circle" alt="">
                               </div>
                               <!-- /col-md- -->
                            </div>
@@ -71,22 +71,22 @@
                                     <div id="collapseOne" class="collapse show" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 1: Vogais de A a C.</li>
-                                             <li>Aula 2: Vogais de A a C.</li>
-                                             <li>Aula 3: Vogais de A a C.</li>
-                                             <li>Aula 4: Vogais de A a C.</li>
-                                             <li>Aula 5: Vogais de A a C.</li>
-                                             <li>Aula 6: Vogais de A a C.</li>
-                                             <li>Aula 7: Vogais de A a C.</li>
-                                             <li>Aula 8: Vogais de A a C.</li>
-                                             <li>Aula 9: Vogais de A a C.</li>
-                                             <li>Aula 10: Vogais de A a C.</li>
-                                             <li>Aula 11: Vogais de A a C.</li>
-                                             <li>Aula 12: Vogais de A a C.</li>
-                                             <li>Aula 13: Vogais de A a C.</li>
-                                             <li>Aula 14: Vogais de A a C.</li>
-                                             <li>Aula 15: Vogais de A a C.</li>
-                                             <li>Aula 16: Vogais de A a C.</li>
+                                             <li>Aula 1: O Alfabeto.</li>
+                                             <li>Aula 2: Letras, Números e Símbolos.</li>
+                                             <li>Aula 3: Ficha de Identificação Pessoal.</li>
+                                             <li>Aula 4: Nomes Próprios e Comuns.</li>
+                                             <li>Aula 5: Vogais A e E.</li>
+                                             <li>Aula 6: Vogais I - O - U.</li>
+                                             <li>Aula 7: Consoantes.</li>
+                                             <li>Aula 8: Revisão.</li>
+                                             <li>Aula 9: Letras B e C.</li>
+                                             <li>Aula 10: Letras D e F.</li>
+                                             <li>Aula 11: Letras G e H.</li>
+                                             <li>Aula 12: Letras J e K.</li>
+                                             <li>Aula 13: Letras L e M.</li>
+                                             <li>Aula 14: Letras N e P.</li>
+                                             <li>Aula 15: Letras Q e R.</li>
+                                             <li>Aula 16: Revisão.</li>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -100,7 +100,7 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p>Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                                          <p></p>
                                        </div>
                                     </div>
                                  </div>
@@ -114,7 +114,7 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p>Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                                          <p></p>
                                        </div>
                                     </div>
                                  </div>
