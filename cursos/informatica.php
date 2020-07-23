@@ -63,12 +63,12 @@
                                  <!-- collapsible accordion 1 -->
                                  <div class="card">
                                     <div class="card-header">
-                                       <a class="card-link" data-toggle="collapse" href="#collapseOne">
+                                       <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">
                                        Windows 10 kids
                                        </a>
                                     </div>
                                     <!-- /card-header -->
-                                    <div id="collapseOne" class="collapse show" data-parent=".accordion">
+                                    <div id="collapseOne" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
                                              <li>Aula 1: Ligando e Desligando o Computador / Componentes.</li>
@@ -232,20 +232,11 @@
                            </div>
                            <!-- /col-md-12-->
                            <div class="col-md-12 mt-5">
-                              <h5>Outras funções</h5>
-                              <!-- custom-list -->
-                              <ul class="custom pl-0">
-                                 <li>Orci eget, viverra elit liquam erat volut pat phas ellus ac Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dol</li>
-                                 <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell lorem</li>
-                                 <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dol</li>
-                                 <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell lorem , scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus</li>
-                                 <li>Aliquam erat volut pat phas ellu</li>
-                              </ul>
-                              <!-- /ul -->
+                           <?php include ("../cenarios/informatica.php");?>
                            </div>
                            <!-- /col-md -->
                            <!-- custom link -->
-                           <a class="custom-link float-right mt-5" href="index.html">Voltar para Home</a>
+                           <a class="custom-link float-right mt-5" href="../pages/index.php">Voltar para Home</a>
                         </div>
                         <!-- /row -->
                      </div>

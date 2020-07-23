@@ -26,15 +26,15 @@
             </ul>
             <!-- /ul -->
             <!-- Gallery -->
-            <div id="gallery-isotope" class="row mt-5 magnific-popup">
+            <div id="gallery-isotope" class="row mt-5 ">
                <!-- Image 1 -->
                <div class="col-sm-6 col-md-6 col-lg-4 info">
                   <div class="portfolio-item">
                      <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery1.jpg" alt="">
+                        <img class="img-fluid " src="../img/gallery/gallery1.jpg"  alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery1.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye" ></i></a>
                      </div>
                   </div>
                </div>
@@ -44,8 +44,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery2.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery2.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -55,8 +55,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery3.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery3.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -66,8 +66,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery4.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery4.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -77,8 +77,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery5.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery5.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -89,8 +89,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery6.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery6.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/port1.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -100,8 +100,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery7.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery7.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/port2.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -111,8 +111,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery8.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery8.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/port3.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -122,8 +122,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery9.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery9.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/port4.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -133,8 +133,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery10.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery10.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/port5.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -144,8 +144,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery11.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery11.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/mat1.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -155,8 +155,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery12.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery12.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/mat2.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -166,8 +166,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery13.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery13.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/mat3.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -177,8 +177,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery14.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery14.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/mat4.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -188,8 +188,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery15.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery15.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/mat5.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -199,8 +199,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery16.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery16.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/libras.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -210,8 +210,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery17.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery17.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/libras.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -221,8 +221,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery18.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery18.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/libras.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -232,8 +232,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery19.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery19.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/robotica.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>
@@ -243,8 +243,8 @@
                      <div class="gallery-thumb">
                         <img class="img-fluid " src="../img/gallery/gallery20.jpg" alt="">
                         <span class="overlay-mask"></span>
-                        <a href="../img/gallery/gallery20.jpg" class="link centered" title="You can add caption to pictures.">
-                        <i class="fa fa-expand"></i></a>
+                        <a href="../cursos/pre.php" class="link centered" title="Clique para saber mais.">
+                        <i class="fa fa-eye"></i></a>
                      </div>
                   </div>
                </div>

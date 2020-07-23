@@ -1325,6 +1325,7 @@ ul.slider-pagi {
 	transform: translateY(100px);
 	opacity: 0;
 	transition: opacity .4s ease-out, transform .4s ease-out;
+	
 }
 
 .touch .scrollimation .gallery-thumb,

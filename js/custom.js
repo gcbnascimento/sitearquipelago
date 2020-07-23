@@ -37,7 +37,7 @@ jQuery(function($) {
 			$(this).css('border-color', '');
 			if (!$.trim($(this).val())) { //if this field is empty 
 			  $(this).css('border-color', '#e44747');
-			  $("#contact_results").html('<br><div class="alert alert-danger">Please fill out the required fields.</div>').show();
+			  $("#contact_results").html('<br><div class="alert alert-danger">Por favor, preencha todos os campos corretamente.</div>').show();
 			  
 			  proceed = false; //set do not proceed flag
 			}
@@ -45,7 +45,7 @@ jQuery(function($) {
 			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
 			if ($(this).attr("type") === "email" && !email_reg.test($.trim($(this).val()))) {
 				$(this).css('border-color', '#e44747'); 
-				$("#contact_results").html('<br><div class="alert alert-danger">Please enter a valid email address.</div>').show();
+				$("#contact_results").html('<br><div class="alert alert-danger">Por favor, insira uma e-mail válido.</div>').show();
 				proceed = false; //set do not proceed flag				
 			}
 			});
@@ -54,9 +54,9 @@ jQuery(function($) {
 			{
 			//get input field values data to be sent to server
 			var post_data = {
-				'user_name': $('input[name=name]').val(),
+				'user_name': $('input[name=nome]').val(),
 				'user_email': $('input[name=email]').val(),
-				'subject': $('input[name=subject]').val(),
+				'subject': $('input[name=telefone]').val(),
 				'msg': $('textarea[name=message]').val()
 			};
 
