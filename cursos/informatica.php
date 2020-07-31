@@ -53,9 +53,33 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/cursos/kids/supergenio/port1/aula1/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="contact.html" class="btn btn-primary mt-2">Material didático</a>
-                           </div>
+                              
+                              
+                                       <a class="collapsed card-link" class="btn btn-primary mt-2" data-toggle="collapse" href="#collapseC">
+                                       <a class="btn btn-primary mt-2" data-toggle="collapse" href="#collapseC"> Material Didatico </a>
+                                        </a> 
+                                        <a href="https://dreduca.com.br/dreduca/ARQUIPELAGODOSABER/mapao/mapao.htm" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                                      
+                                    
+                                    <!-- /card-header -->
+                                    <div id="collapseC" class="collapse" data-parent=".accordion">
+                                       <div class="card-body">
+                                          <ul class="custom pl-0">
+                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/windows10kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Windows kids </a><br>
+                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/word2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Word kids </a><br>
+                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/excel2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Excel kids </a><br>
+                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/powerpoint2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila PowerPoint kids </a><br>
+                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/internet2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Internet kids </a><br>
+                                              </ul>   </div>
+                                    </div>
+                                 </div>
+                                 </div>
+                                
+
+                          
+                              
+                              
+                           
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
                               <h4>Conteúdo Programático</h4>
@@ -64,8 +88,9 @@
                                  <div class="card">
                                     <div class="card-header">
                                        <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">
-                                       Windows 10 kids
-                                       </a>
+                                       Windows 10 kids 
+                                        </a> 
+                                      
                                     </div>
                                     <!-- /card-header -->
                                     <div id="collapseOne" class="collapse" data-parent=".accordion">

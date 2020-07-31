@@ -63,30 +63,30 @@
                                  <!-- collapsible accordion 1 -->
                                  <div class="card">
                                     <div class="card-header">
-                                       <a class="card-link" data-toggle="collapse" href="#collapseOne">
+                                       <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">
                                        Módulo 1
                                        </a>
                                     </div>
                                     <!-- /card-header -->
-                                    <div id="collapseOne" class="collapse show" data-parent=".accordion">
+                                    <div id="collapseOne" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 1: Vogais de A a C.</li>
-                                             <li>Aula 2: Vogais de A a C.</li>
-                                             <li>Aula 3: Vogais de A a C.</li>
-                                             <li>Aula 4: Vogais de A a C.</li>
-                                             <li>Aula 5: Vogais de A a C.</li>
-                                             <li>Aula 6: Vogais de A a C.</li>
-                                             <li>Aula 7: Vogais de A a C.</li>
-                                             <li>Aula 8: Vogais de A a C.</li>
-                                             <li>Aula 9: Vogais de A a C.</li>
-                                             <li>Aula 10: Vogais de A a C.</li>
-                                             <li>Aula 11: Vogais de A a C.</li>
-                                             <li>Aula 12: Vogais de A a C.</li>
-                                             <li>Aula 13: Vogais de A a C.</li>
-                                             <li>Aula 14: Vogais de A a C.</li>
-                                             <li>Aula 15: Vogais de A a C.</li>
-                                             <li>Aula 16: Vogais de A a C.</li>
+                                             <li>Aula 1: Sistema de Numeração Decimal.</li>
+                                             <li>Aula 2: Valores de um Algarismo em um Número.</li>
+                                             <li>Aula 3: Ordens e Classes.</li>
+                                             <li>Aula 4: Comparação.</li>
+                                             <li>Aula 5: Arredondamento.</li>
+                                             <li>Aula 6: Revisão.</li>
+                                             <li>Aula 7: A Reta Numérica.</li>
+                                             <li>Aula 8: Recordando as Quatro Operações com Números Naturais.</li>
+                                             <li>Aula 9: Situações Problema Envolvendo as Quatro Operações.</li>
+                                             <li>Aula 10: Geometria: Ponto, Reta e Plano.</li>
+                                             <li>Aula 11: Retas e Ângulos.</li>
+                                             <li>Aula 12: Formas Geométricas Planas e Não Planas e Sólidos Geométricos.</li>
+                                             <li>Aula 13: Polígonos.</li>
+                                             <li>Aula 14: Triângulos e Quadriláteros.</li>
+                                             <li>Aula 15: Divisibilidade.</li>
+                                             <li>Aula 16: Números Primos.</li>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -100,7 +100,7 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p>Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                                          <p></p>
                                        </div>
                                     </div>
                                  </div>
@@ -114,7 +114,7 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p>Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                                          <p></p>
                                        </div>
                                     </div>
                                  </div>
@@ -122,22 +122,14 @@
                               </div>
                               <!-- /accordion -->
                            </div>
+                          
                            <!-- /col-md-12-->
                            <div class="col-md-12 mt-5">
-                              <h5>Outras funções</h5>
-                              <!-- custom-list -->
-                              <ul class="custom pl-0">
-                                 <li>Orci eget, viverra elit liquam erat volut pat phas ellus ac Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dol</li>
-                                 <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell lorem</li>
-                                 <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dol</li>
-                                 <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell lorem , scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus</li>
-                                 <li>Aliquam erat volut pat phas ellu</li>
-                              </ul>
-                              <!-- /ul -->
+                           <?php include ("../cenarios/mat5.php");?>
                            </div>
                            <!-- /col-md -->
                            <!-- custom link -->
-                           <a class="custom-link float-right mt-5" href="services.html">Voltar para Home</a>
+                           <a class="custom-link float-right mt-5" href="../pages/index.php">Voltar para Home</a>
                         </div>
                         <!-- /row -->
                      </div>
