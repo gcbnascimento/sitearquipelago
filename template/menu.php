@@ -101,7 +101,7 @@
                         <a class="dropdown-item" href="../cursos/mat3.php">Matemática 3º Ano</a>
                         <a class="dropdown-item" href="../cursos/mat4.php">Matemática 4º Ano</a>
                         <a class="dropdown-item" href="../cursos/mat5.php">Matemática 5º Ano</a>
-                        <a class="dropdown-item" href="../cursos/Informatica.php">Informática</a>
+                        <a class="dropdown-item" href="../cursos/informatica.php">Informática</a>
                         <a class="dropdown-item" href="../cursos/robotica.php">Robótica</a>
                         <a class="dropdown-item" href="../cursos/libras.php">Libras</a>
 						<a class="dropdown-item" href="../cursos/pre.php">Pré-Alfabetização</a>

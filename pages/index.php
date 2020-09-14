@@ -27,12 +27,11 @@
                   <!-- text  -->
                   <div class="ls-l header-wrapper" data-ls="offsetyin:150; durationin:700; delayin:200; easingin:easeOutQuint; rotatexin:20; scalexin:1.4; offsetyout:600; durationout:400;">
                      <div class="header-text">
-                        <span>Bem-vindo ao </span> 
-                        <h1> Arquipélago do Saber</h1>
+                        <span>Bem-vindo à </span> 
+                        <h1> Super Gênio</h1>
                         <!--the div below is hidden on small screens  -->
                         <div class="hidden-small">
-                           <p class="header-p">Em nossa escola a criança vem para ver os amiguinhos, interagir com os personagens,
-                               brincar, passar horas divertidas, se socializar e ao mesmo tempo <b>APRENDER</b>.</p>
+                           <p class="header-p">Somos a única escola especializada em crianças com dificuldades de aprendizagem, ou com laudo de Dislexia, Autismo TDAH, entre outros.</p>
                            <a class="btn btn-secondary" href="contact.html">Saiba mais</a>
                         </div>
                         <!--/hidden-small -->
