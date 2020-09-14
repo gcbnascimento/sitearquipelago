@@ -17,7 +17,7 @@
                               <!-- contact-icon info-->
                               <div class="contact-icon-info">
                                  <h5>Escreva para</h5>
-                                 <p><a href="mailto:email@yoursite.com">contato@arquipelagodosaber.com.br</a></p>
+                                 <p><a href="mailto:email@yoursite.com">contato@supergeniooficial.com.br</a></p>
                               </div>
                            </div>
                            <!-- /contact-icon-->

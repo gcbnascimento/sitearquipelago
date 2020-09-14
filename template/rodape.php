@@ -42,7 +42,7 @@
                   <h5>Contate-nos</h5>
                   <ul class="list-unstyled mt-3">
                      <li class="mb-1"><i class="fas fa-phone margin-icon "></i>(16) 3252 - 8999</li>
-                     <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">contato@arquipelagodosaber.com.br</a></li>
+                     <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">contato@supergeniooficial.com.br</a></li>
                      <li><i class="fas fa-map-marker margin-icon"></i>Taquaritinga - São Paulo </li>
                   </ul>
                   <!--/ul -->

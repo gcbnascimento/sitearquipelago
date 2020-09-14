@@ -45,7 +45,7 @@
                   <!-- Start Contact Info -->
                   <ul class="contact-details float-left">
                      <li><i class="fa fa-map-marker"></i>Taquaritinga - São Paulo</li>
-                     <li><i class="fa fa-envelope"></i><a href="mailto:email@site.com">contato@arquipelagodosaber.com.br</a></li>
+                     <li><i class="fa fa-envelope"></i><a href="mailto:email@site.com">contato@supergeniooficial.com.br</a></li>
                      <li><i class="fa fa-phone"></i>(16) 3256 - 8999</li>
                   </ul>
                   <!-- End Contact Info -->

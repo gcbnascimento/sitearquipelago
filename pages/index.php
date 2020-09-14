@@ -27,12 +27,11 @@
                   <!-- text  -->
                   <div class="ls-l header-wrapper" data-ls="offsetyin:150; durationin:700; delayin:200; easingin:easeOutQuint; rotatexin:20; scalexin:1.4; offsetyout:600; durationout:400;">
                      <div class="header-text">
-                        <span>Bem-vindo ao </span> 
-                        <h1> Arquipélago do Saber</h1>
+                        <span>Bem-vindo à </span> 
+                        <h1> Super Gênio</h1>
                         <!--the div below is hidden on small screens  -->
                         <div class="hidden-small">
-                           <p class="header-p">Em nossa escola a criança vem para ver os amiguinhos, interagir com os personagens,
-                               brincar, passar horas divertidas, se socializar e ao mesmo tempo <b>APRENDER</b>.</p>
+                           <p class="header-p">Somos a <b>única</b> escola especializada em crianças com dificuldades de aprendizagem, ou com laudo de Dislexia, Autismo, TDAH, entre outros.</p>
                            <a class="btn btn-secondary" href="contact.html">Saiba mais</a>
                         </div>
                         <!--/hidden-small -->
@@ -60,9 +59,13 @@
                      <!-- front of card  -->  
                      <div class="card bg-secondary text-light ">
                         <div class="p-5">
-                           <h4 class="card-title text-light">Revolucionamos a maneira de ensinar</h4>
-                           <p class="card-text">
-                              Nossa metodologia  oferece ao aluno <b>desenvolvimento pessoal</b>, <b>qualidade</b>, <b>igualdade</b> e <b>aprendizagem diferenciada</b>.
+                           <h4 class="card-title text-light">Conceito</h4>
+                           <p class="card-text" style="font-size:13px">
+                              <b>As crianças precisam ser cativadas!</b> 
+							  <br>Sendo assim, nosso conceito é que elas venham até nossa escola para ver os amiguinhos, 
+							  interagir com nossos personagens, brincar, passar horas divertidas, se socializar e a mesmo tempo <b>APRENDER</b>.
+							  <br> <b>Assim atingiremos
+							  nosso objetivo.</b>
                            </p>
                            <!-- button show on mobile only,where flip is disabled -->
                            <a href="contact.html" class="btn d-lg-none">Contact us</a>
@@ -370,7 +373,7 @@
                               <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>Horários Flexíveis</a>
                               <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Evolução</a>
                               <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Felicidade</a>
-                              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Interação</a>
+                              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Socialização</a>
                               <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Humanização</a>
                            </div>
                         </nav>
@@ -387,15 +390,13 @@
                                  </div>
                                  <!-- col-lg -->
                                  <div class="col-lg-6">
-                                    <h3>Daycare</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+                                    <h3>Horários flexíveis</h3>
+                                    <p>Aqui você escolhe qual o melhor dia e horário para seu filho, sem atrapalhar as demais atividades do cotidiano.</p>
                                     <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
+                                       <li>Pelo menos 2 horas semanais</li>
+                                       <li>Reposição sempre que necessário</li>
+                                       <li>Sem necessidade de formação de turmas</li>
                                     </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
                                  </div>
                                  <!-- /col-lg -->
                               </div>
@@ -405,15 +406,11 @@
                            <div class="tab-pane" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
                               <div class="row">
                                  <div class="col-lg-6">
-                                    <h3>Summer Camp</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                                    <h3>Evolução</h3>
+                                    <p>Aqui a evolução do seu filho é levado a sério por isso, nossa metodologia possui uma sequência lógica de aprendizagem que oferece aos nossos alunos
+									 a aprendizagem dos conteúdos de forma fácil e objetiva, respeitando seu ritmo e principalmente, suas habilidades.</p>
+                                  
+                                    
                                  </div>
                                  <!-- /col-lg -->
                                  <div class="col-lg-6 res-margin">
@@ -437,15 +434,9 @@
                                  </div>
                                  <!-- col-lg -->
                                  <div class="col-lg-6">
-                                    <h3>Infant Care</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                                    <h3>Felicidade</h3>
+                                    <p>Nossas escolas transbordam felicidade, porque aqui, nossos alunos aprendem brincando, e o mais importante, tendo respeitado seu tempo, diferenças e habilidades.</p>
+                                    
                                  </div>
                                  <!-- /col-lg -->
                               </div>
@@ -455,15 +446,10 @@
                            <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4-tab">
                               <div class="row">
                                  <div class="col-lg-6">
-                                    <h3>Classes</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                                    <h3>Socialização</h3>
+                                    <p>Preparar a criança para a vida e o convívio social.
+									<br>Além da aprendizagem cognitiva, nosso foco é formar uma sociedade mais justa e que garanta a equidade.</p>
+                                    
                                  </div>
                                  <!-- /col-lg -->
                                  <div class="col-lg-6 res-margin">
@@ -487,15 +473,10 @@
                                  </div>
                                  <!-- col-lg -->
                                  <div class="col-lg-6">
-                                    <h3>Activities</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                                    <h3>Humanização</h3>
+                                    <p>As pessoas envolvidas em nossa marca <b>AMAM EDUCAÇÃO</b> e consequentemente, amam pessoas, sendo assim, um dos maiores cuidados é com a humanização dos processos
+									e principalmente, com o saber ouvir.</p>
+                                    
                                  </div>
                                  <!-- /col-lg -->
                               </div>

@@ -7,12 +7,12 @@
             <div class="container" >
                <!-- jumbo-heading -->
                <div class="jumbo-heading" data-aos="fade-down">
-                  <h1>About Us</h1>
+                  <h1>Sobre nós</h1>
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">About us</li>
+                        <li class="breadcrumb-item active" aria-current="page">Nós</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -28,14 +28,20 @@
                <!--row -->
                <div class="row">
                   <div class="col-lg-8">
-                     <h3>Engaging Learning Environment </h3>
-                     <p class="h7 mt-3 mb-4">your child will develop self-esteem, independence and language</p>
-                     <p>Etiam vestibulum sit amet nulla vel ornare. Vestibulum vitae turpis ac sapien pharetra facilisis. Curabitur non libero justo. Suspendisse at ultrices velit. Quisque aliquet quis nibh sed feugiat. Curabitur et quam felis. Nulla rhoncus laoreet dolor, et vestibulum sem consectetur a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt turpis ut sagittis tempor.
-                     </p>
+                     <h3>Ante de iniciar qualquer processo ou procedimento, quero compartilhar com vocês, quem é a Super Gênio. </h3>
+                     <p class="h7 mt-3 mb-4">Primeiramente, você precisa saber que, as pessoas envolvidas <b>AMAM EDUCAÇÃO</b> e levam isso muito a sério!</p>
+                     <p> A Super Gênio é uma empresa que cria e busca soluções para auxiliar <b>TODAS AS CRIANÇAS A DESENVOLVEREM SUAS COMPETÊNCIAS E HABILIDADES</b>, além de facilitar o 
+					 processo de aprendizagem, <b>principalmente</b>, aquelas que apresentam alguma dificuldade de aprendizagem, transtornos ou deficiências, fazendo com que elas consigam
+					 aprender, se desenvolver e evoluir em todos os aspectos. (Pessoal, cognitivo e profissional).
+					 <br>Com essa introdução, você já percebeu que não estamos de brincadeira.
+					</p>
                      <ul class="custom pl-0">
-                        <li>Over 30 Qualified professionals</li>
-                        <li>We offer you our quality services since 2002</li>
-                        <li>Fun and educational activities in our daily plan</li>
+                        <li>Não somos apenas mais um, <b>SOMOS A REFERÊNCIA EM DIFICULDADES DE APRENDIZAGEM E EDUCAÇÃO ESPECIAL</b>, porque o que ainda não temos, vamos criar, para que todos
+					 tenham a oportunidade de ser valorizados e trabalhados.</li>
+                        <li>Trabalhamos com todas as crianças em fase escolar, desde a pré-alfabetização até o quinto ano do ensino fundamental, que <b>tenham alguma dificuldade de aprendizagem, 
+					 ou com laudo médico de Autismo, Dislexia, TDH, entre outros</b>, esse é o nosso foco principal, porém, a metodologia atende todas as crianças.</li>
+                        <li>Somos movidos pela paixão por educação, igualdade, respeito ao próximo, e a certeza que podemos mudar a maneira de ensinar, deixando as crianças sempre motivadas 
+						e prontas para evoluir cada vez mais.</li>
                      </ul>
                      <!-- /custom-ul-->          
                   </div>
@@ -57,10 +63,9 @@
                            </div>
                            <!-- /col-lg-->
                            <div class="col-lg-8">
-                              <h4 class="mt-3">Our Educational Plan</h4>
-                              <p class="res-margin">Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                              <p>Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall Maecenas at arcu risus scelerisque laoree. arcu risus onec comm nec elementum ipsum convall.</p>
-                              <a href="contact.html"  class="btn btn-tertiary">Contact Us</a>
+                              <h4 class="mt-3">Venha conosco, você vai se surpreender!</h4>
+                              <p class="res-margin" align="right">____________________<br>Daniel C. Bichiatto <br> CEO Super Gênio</p>
+                              <a href="contato.php"  class="btn btn-tertiary">Contate-nos</a>
                            </div>
                            <!-- /col-lg-->
                         </div>
@@ -73,127 +78,6 @@
                <!-- /row -->		 
             </div>
             <!-- /container -->
-            <!-- counter Section  -->
-            <section id="counter-section" class="container-fluid counter-calltoaction overlay bg-fixed"  data-100-bottom="background-position: 50% 100px;"
-               data-top-bottom="background-position: 50% -100px;" >
-               <div id="counter" class="container">
-                  <div  class="row col-lg-10 offset-lg-1">
-                     <!-- Counter -->
-                     <div class="col-xl-4 col-md-4">
-                        <div class="counter">
-                           <div class="counter-wrapper bg-primary">
-                              <i class="counter-icon flaticon-teacher"></i>
-                              <!-- insert your final value on data-count= -->
-                              <div class="counter-value" data-count="30">0</div>
-                              <h3 class="title">Professionals</h3>
-                           </div>
-                        </div>
-                        <!-- /counter -->
-                     </div>
-                     <!-- /col-lg -->
-                     <!-- Counter -->
-                     <div class="col-xl-4 col-md-4">
-                        <div class="counter">
-                           <div class="counter-wrapper bg-secondary">
-                              <i class="counter-icon  flaticon-family"></i>
-                              <!-- insert your final value on data-count= -->
-                              <div class="counter-value" data-count="74">0</div>
-                              <h3 class="title">Happy parents</h3>
-                           </div>
-                        </div>
-                        <!-- /counter -->
-                     </div>
-                     <!-- /col-lg -->
-                     <!-- Counter -->
-                     <div class="col-xl-4 col-md-4">
-                        <div class="counter">
-                           <div class="counter-wrapper bg-tertiary">
-                              <i class="counter-icon flaticon-children"></i>
-                              <!-- insert your final value on data-count= -->
-                              <div class="counter-value" data-count="104">0</div>
-                              <h3 class="title">Students</h3>
-                           </div>
-                        </div>
-                        <!-- /counter -->
-                     </div>
-                     <!-- /col-lg -->		 
-                  </div>
-                  <!-- /row -->
-               </div>
-               <!-- /container -->
-            </section>
-            <!-- /section ends-->   
-            <div class="container block-padding">
-               <!-- row-->
-               <div class="row">
-                  <div class="col-lg-6">
-                     <!-- accordion -->
-                     <div class="accordion">
-                        <!-- collapsible accordion 1 -->
-                        <div class="card">
-                           <div class="card-header">
-                              <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                              Our Philosophy
-                              </a>
-                           </div>
-                           <!-- /card-header -->
-                           <div id="collapseOne" class="collapse show" data-parent=".accordion">
-                              <div class="card-body">
-                                 <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- /card -->
-                        <!-- collapsible accordion 2 -->
-                        <div class="card">
-                           <div class="card-header">
-                              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-                              Our Organization
-                              </a>
-                           </div>
-                           <div id="collapseTwo" class="collapse" data-parent=".accordion">
-                              <div class="card-body">
-                                 <p>Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall Maecenas at arcu risus scelerisque laoree.</p>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- /card -->
-                        <!-- collapsible accordion 3 -->
-                        <div class="card">
-                           <div class="card-header">
-                              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                              Partnerships with our team
-                              </a>
-                           </div>
-                           <div id="collapseThree" class="collapse" data-parent=".accordion">
-                              <div class="card-body">
-                                 <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                 <p>Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall Maecenas at arcu risus scelerisque laoree.</p>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- /card -->
-                     </div>
-                     <!-- /accordion -->
-                  </div>
-                  <!-- /col-lg-->
-                  <div class="col-lg-6">
-                     <h3 class="res-margin">Qualified Staff</h3>
-                     <p class="h7 mt-3 mb-3">Consectetur adipiscing elit. Quisque tincidunt turpis ut sagittis tempor.</p>
-                     <p>Etiam vestibulum sit amet nulla vel ornare. Vestibulum vitae turpis ac sapien pharetra facilisis. Curabitur non libero justo. Suspendisse at ultrices velit. Quisque aliquet quis nibh sed feugiat. Curabitur et quam felis. Nulla rhoncus laoreet dolor, et vestibulum sem consectetur a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt turpis ut sagittis tempor.
-                     </p>
-                     <!-- buttons -->
-                     <a href="contact.html"  class="btn btn-tertiary">Contact Us</a>
-                     <a href="team.html" class="btn-margin btn btn-quaternary ml-1" >Our Team</a>
-                  </div>
-                  <!-- /col-lg-->
-               </div>
-               <!-- /row -->
-            </div>
-            <!-- /container -->
-         </div>
-         <!-- /page -->
-      </div>
-      <!--/ page-wrapper -->
+        
       
       <?php include ("../template/rodape.php");?>
