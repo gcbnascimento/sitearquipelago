@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a>Home</a></li>
+                        <li class="breadcrumb-item"><a >Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/Demonstrativos/ROBOTICAKIDS/index.htm" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="https://www.dreduca.com.br/dreduca/MATERIAL/roboticakids/mobile/index.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/ROBOTICAKIDS/index.htm" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/roboticakids/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">

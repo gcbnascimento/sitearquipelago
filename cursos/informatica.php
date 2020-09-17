@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a >Home</a></li>
+                        <li class="breadcrumb-item"><a >Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
                      </ol>
                   </nav>
@@ -58,18 +58,18 @@
                                        <a class="collapsed card-link" class="btn btn-primary mt-2" data-toggle="collapse" href="#collapseC">
                                        <a class="btn btn-primary mt-2" data-toggle="collapse" href="#collapseC"> Material Didatico </a>
                                         </a> 
-                                        <a href="https://dreduca.com.br/dreduca/ARQUIPELAGODOSABER/mapao/mapao.htm" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                                        <a href="https://dreduca.com.br/ead/ARQUIPELAGODOSABER/mapao/mapao.htm" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
                                       
                                     
                                     <!-- /card-header -->
                                     <div id="collapseC" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/windows10kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Windows kids </a><br>
-                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/word2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Word kids </a><br>
-                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/excel2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Excel kids </a><br>
-                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/powerpoint2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila PowerPoint kids </a><br>
-                                         <a href="https://www.dreduca.com.br/dreduca/MATERIAL/informatica/internet2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Internet kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/windows10kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Windows kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/word2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Word kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/excel2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Excel kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/powerpoint2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila PowerPoint kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/internet2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Internet kids </a><br>
                                               </ul>   </div>
                                     </div>
                                  </div>

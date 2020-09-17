@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
+
+
 <head>
    <meta charset="utf-8">
    <!--[if IE]>
@@ -10,7 +12,7 @@
    <meta name="description" content="">
    <meta name="author" content="">
    <!-- page title -->
-   <title>Arquipélago do Saber</title>
+   <title>Super Gênio</title>
    <!--[if lt IE 9]>
       <script src="js/respond.js"></script>
       <![endif]-->
@@ -45,8 +47,8 @@
                   <!-- Start Contact Info -->
                   <ul class="contact-details float-left">
                      <li><i class="fa fa-map-marker"></i>Taquaritinga - São Paulo</li>
-                     <li><i class="fa fa-envelope"></i><a href="mailto:email@site.com">contato@arquipelagodosaber.com.br</a></li>
-                     <li><i class="fa fa-phone"></i>(16) 3256 - 8999</li>
+                     <li><i class="fa fa-envelope"></i><a href="mailto:email@site.com">contato@supergeniooficial.com.br</a></li>
+                     <li><i class="fa fa-phone"></i>(16) 3253 - 8999</li>
                   </ul>
                   <!-- End Contact Info -->
                   <!-- Start Social Links -->
@@ -69,7 +71,7 @@
          <div class="container ">
             <!-- logo -->
             <a class="nav-brand" href="../pages/index.php">
-               <img src="../img/logo.png" alt="Arquipélago do Saber" class="img-fluid">
+               <img src="../img/logo.png" alt="Super Gênio" class="img-fluid">
             </a>
             <!-- Navbar toggler -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">

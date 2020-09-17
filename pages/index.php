@@ -31,7 +31,7 @@
                         <h1> Super Gênio</h1>
                         <!--the div below is hidden on small screens  -->
                         <div class="hidden-small">
-                           <p class="header-p">Somos a única escola especializada em crianças com dificuldades de aprendizagem, ou com laudo de Dislexia, Autismo TDAH, entre outros.</p>
+                           <p class="header-p">Somos a <b>única</b> escola especializada em crianças com dificuldades de aprendizagem, ou com laudo de Dislexia, Autismo, TDAH, entre outros.</p>
                            <a class="btn btn-secondary" href="contact.html">Saiba mais</a>
                         </div>
                         <!--/hidden-small -->
@@ -59,12 +59,16 @@
                      <!-- front of card  -->  
                      <div class="card bg-secondary text-light ">
                         <div class="p-5">
-                           <h4 class="card-title text-light">Revolucionamos a maneira de ensinar</h4>
-                           <p class="card-text">
-                              Nossa metodologia  oferece ao aluno <b>desenvolvimento pessoal</b>, <b>qualidade</b>, <b>igualdade</b> e <b>aprendizagem diferenciada</b>.
+                           <h4 class="card-title text-light">Conceito</h4>
+                           <p class="card-text" style="font-size:13px">
+                              <b>As crianças precisam ser cativadas!</b> 
+							  <br>Sendo assim, nosso conceito é que elas venham até nossa escola para ver os amiguinhos, 
+							  interagir com nossos personagens, brincar, passar horas divertidas, se socializar e a mesmo tempo <b>APRENDER</b>.
+							  <br> <b>Assim atingiremos
+							  nosso objetivo.</b>
                            </p>
                            <!-- button show on mobile only,where flip is disabled -->
-                           <a href="contact.html" class="btn d-lg-none">Contact us</a>
+                          
                         </div>
                         <!-- /p-5 -->
                         <!-- image -->
@@ -80,7 +84,7 @@
                                   peculiaridades e habilidades, sendo trabalhados da forma correta.
                               </p>
                               <!-- button -->
-                              <a href="contact.html" class="btn">contact us</a>
+                             
                            </div>
                            <!-- /p-4 -->
                         </div>
@@ -102,7 +106,7 @@
                               Os alunos estudam com tecnologias como, 3D, gamificação, realidade aumentada, jogos para tablets, celulares e muito mais.
                            </p>
                            <!-- button show on mobile only,where flip is disabled -->
-                           <a href="services.html" class="btn d-lg-none">Confira</a>
+                       
                         </div>
                         <!-- /p-5 -->
                         <!-- image -->
@@ -119,7 +123,7 @@
                                  
                               </p>
                               <!-- button -->
-                              <a href="services.html" class="btn">Confira</a>
+                              
                            </div>
                            <!-- /p-4 -->
                         </div>
@@ -145,8 +149,7 @@
                               <b>síndrome de down</b>.
                      
                            </p>
-                           <!-- button show on mobile only,where flip is disabled -->
-                           <a href="team.html" class="btn d-lg-none">Our Team</a>
+                         
                         </div>
                         <!-- /p-5 -->
                         <!-- image -->
@@ -163,7 +166,7 @@
 
                               </p>
                               <!-- button -->
-                              <a href="team.html" class="btn">Confira</a>
+                            
                            </div>
                            <!-- /p-4 -->
                         </div>
@@ -287,7 +290,7 @@
                      <div class="testimonial">
                         <div class="content">
                            <p class="description">
-                              Scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
+                           Espero poder retribuir pelo menos 1/3 do que estão me ajudando. Foram poucas aulas, mas já da para ver a diferença. Ele está apaixonado pelo curso.                       
                            </p>
                         </div>
                         <!-- /content -->
@@ -296,8 +299,8 @@
                         </div>
                         <!-- /testimonial-pic -->
                         <div class="testimonial-review">
-                           <h5 class="testimonial-title">Lucianna Smith</h5>
-                           <span class="post">Teacher</span>
+                           <h5 class="testimonial-title">Renata Willian</h5>
+                           <span class="post">Mãe</span>
                         </div>
                         <!-- /testimonial-review -->
                      </div>
@@ -306,7 +309,7 @@
                      <div class="testimonial">
                         <div class="content">
                            <p class="description">
-                              Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
+                           Minha filha está adorando, ela diz que é parecido com um jogo, muito obrigada!                   
                            </p>
                         </div>
                         <!-- /content -->
@@ -315,8 +318,8 @@
                         </div>
                         <!-- /testimonial-pic -->
                         <div class="testimonial-review">
-                           <h5 class="testimonial-title">John Sadana</h5>
-                           <span class="post">Doctor</span>
+                           <h5 class="testimonial-title">Vanessa</h5>
+                           <span class="post">Mãe</span>
                         </div>
                         <!-- /testimonial-review -->
                      </div>
@@ -325,7 +328,7 @@
                      <div class="testimonial">
                         <div class="content">
                            <p class="description">
-                              Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.                        
+                           Estou surpresa, milha filha está adorando e disse que é muito divertido.                      
                            </p>
                         </div>
                         <!-- /content -->
@@ -334,8 +337,8 @@
                         </div>
                         <!-- /testimonial-pic -->
                         <div class="testimonial-review">
-                           <h5 class="testimonial-title">Jane Janeth</h5>
-                           <span class="post">Librarian</span>
+                           <h5 class="testimonial-title">Silvia</h5>
+                           <span class="post">Mãe</span>
                         </div>
                         <!-- /testimonial-review -->
                      </div>
@@ -350,170 +353,10 @@
             <!-- whale -->
 
          </section>
-      
-         <section id="services-home" class="container-fluid">
-            <div class="container pb-5">
-               <!-- section heading -->  
-               <div class="section-heading text-center">
-                  <h2>OUTROS DIFERENCIAIS:</h2>
-                  <p class="subtitle">MAIS DE 27 ANOS DE EXPERIÊNCIA ENSINANDO COM AMOR E CARINHO</p>
-               </div>
-               <!-- /section heading -->
-               <!-- row -->
-               <div class="row vertical-tabs">
-                  <div class="col-lg-12">
-                     <!-- navigation -->
-                     <div class="tabs-with-icon">
-                        <nav>
-                           <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                              <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>Horários Flexíveis</a>
-                              <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Evolução</a>
-                              <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Felicidade</a>
-                              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Interação</a>
-                              <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Humanização</a>
-                           </div>
-                        </nav>
-                        <!-- tab-content -->
-                        <div class="tab-content block-padding bg-light" id="nav-tabContent">
-                           <div class="tab-pane active" id="tab1" role="tabpanel" aria-labelledby="tab1-tab">
-                              <!-- row -->
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <!-- image -->
-                                    <img src="../img/services/service1.jpg" alt="" class="rounded img-fluid">
-                                    <!-- ornament starts-->
-                                    <div class="ornament-rainbow" data-aos="fade-right"></div>
-                                 </div>
-                                 <!-- col-lg -->
-                                 <div class="col-lg-6">
-                                    <h3>Daycare</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
-                                 </div>
-                                 <!-- /col-lg -->
-                              </div>
-                              <!-- row -->
-                           </div>
-                           <!-- ./Tab-pane -->
-                           <div class="tab-pane" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <h3>Summer Camp</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
-                                 </div>
-                                 <!-- /col-lg -->
-                                 <div class="col-lg-6 res-margin">
-                                    <!-- image -->
-                                    <img src="../img/services/service2.jpg" alt="" class="rounded img-fluid">
-                                    <!-- ornament starts-->
-                                    <div class="ornament-stars" data-aos="fade-right"></div>
-                                 </div>
-                                 <!-- col-lg -->
-                              </div>
-                              <!-- row -->
-                           </div>
-                           <!-- ./Tab-pane -->
-                           <div class="tab-pane" id="tab3" role="tabpanel" aria-labelledby="tab3-tab">
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <!-- image -->
-                                    <img src="../img/services/service3.jpg" alt="" class="rounded img-fluid">
-                                    <!-- ornament starts-->
-                                    <div class="ornament-bubbles" data-aos="fade-right"></div>
-                                 </div>
-                                 <!-- col-lg -->
-                                 <div class="col-lg-6">
-                                    <h3>Infant Care</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
-                                 </div>
-                                 <!-- /col-lg -->
-                              </div>
-                              <!-- row -->
-                           </div>
-                           <!-- ./Tab-pane -->
-                           <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4-tab">
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <h3>Classes</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
-                                 </div>
-                                 <!-- /col-lg -->
-                                 <div class="col-lg-6 res-margin">
-                                    <!-- image -->
-                                    <img src="../img/services/service4.jpg" alt="" class="rounded img-fluid">
-                                    <!-- ornament starts-->
-                                    <div class="ornament-stars" data-aos="fade-right"></div>
-                                 </div>
-                                 <!-- col-lg -->
-                              </div>
-                              <!-- row -->
-                           </div>
-                           <!-- ./Tab-pane -->
-                           <div class="tab-pane" id="tab5" role="tabpanel" aria-labelledby="tab5-tab">
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <!-- image -->
-                                    <img src="../img/services/service5.jpg" alt="" class="rounded img-fluid">
-                                    <!-- ornament starts-->
-                                    <div class="ornament-rainbow" data-aos="fade-right"></div>
-                                 </div>
-                                 <!-- col-lg -->
-                                 <div class="col-lg-6">
-                                    <h3>Activities</h3>
-                                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                                    <ul class="custom pl-0">
-                                       <li>Over 30 Qualified professionals</li>
-                                       <li>We offer you our quality services since 2002</li>
-                                       <li>Educational activities in our daily plan</li>
-                                    </ul>
-                                    <!-- Button -->	 
-                                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
-                                 </div>
-                                 <!-- /col-lg -->
-                              </div>
-                              <!-- row -->
-                           </div>
-                           <!-- ./Tab-pane -->
-                        </div>
-                        <!-- ./Tab-content -->
-                     </div>
-                     <!-- vertical-tabs -->
-                  </div>
-                  <!-- /col-lg-6 -->
-               </div>
-               <!-- /row --> 
-            </div>
-            <!-- /container -->
-         </section>
-         <!-- /section ends -->
-         <!-- Section  -->
+   <br>
+   <br>
+    <br>
+   <br>
          <section id="counter-section" class="container-fluid counter-calltoaction bg-fixed overlay"  data-100-bottom="background-position: 50% 100px;"
             data-top-bottom="background-position: 50% -100px;" >
             <div id="counter" class="container">
@@ -562,7 +405,167 @@
             </div>
             <!-- /container -->
          </section>
+      
+         <section id="services-home" class="container-fluid">
+            <div class="container pb-5">
+               <!-- section heading -->  
+               <div class="section-heading text-center">
+                  <h2>OUTROS DIFERENCIAIS:</h2>
+                  <p class="subtitle">MAIS DE 27 ANOS DE EXPERIÊNCIA ENSINANDO COM AMOR E CARINHO</p>
+               </div>
+               <!-- /section heading -->
+               <!-- row -->
+               <div class="row vertical-tabs">
+                  <div class="col-lg-12">
+                     <!-- navigation -->
+                     <div class="tabs-with-icon">
+                        <nav>
+                           <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                              <a class="nav-item nav-link active" id="tab1-tab" data-toggle="tab" href="#tab1"><i class="flaticon-abc-block"></i>Horários Flexíveis</a>
+                              <a class="nav-item nav-link" id="tab2-tab" data-toggle="tab" href="#tab2" ><i class="flaticon-kids-1"></i>Evolução</a>
+                              <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3" ><i class="flaticon-smiling-baby"></i>Felicidade</a>
+                              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>Socialização</a>
+                              <a class="nav-item nav-link" id="tab5-tab" data-toggle="tab" href="#tab5" ><i class="flaticon-kids"></i>Humanização</a>
+                           </div>
+                        </nav>
+                        <!-- tab-content -->
+                        <div class="tab-content block-padding bg-light" id="nav-tabContent">
+                           <div class="tab-pane active" id="tab1" role="tabpanel" aria-labelledby="tab1-tab">
+                              <!-- row -->
+                              <div class="row">
+                                 <div class="col-lg-6">
+                                    <!-- image -->
+                                    <img src="../img/services/service1.jpg" alt="" class="rounded img-fluid">
+                                    <!-- ornament starts-->
+                                    <div class="ornament-rainbow" data-aos="fade-right"></div>
+                                 </div>
+                                 <!-- col-lg -->
+                                 <div class="col-lg-6">
+                                    <h3>Horários flexíveis</h3>
+                                    <p>Aqui você escolhe qual o melhor dia e horário para seu filho, sem atrapalhar as demais atividades do cotidiano.</p>
+                                    <ul class="custom pl-0">
+                                       <li>Pelo menos 2 horas semanais</li>
+                                       <li>Reposição sempre que necessário</li>
+                                       <li>Sem necessidade de formação de turmas</li>
+                                    </ul>
+                                 </div>
+                                 <!-- /col-lg -->
+                              </div>
+                              <!-- row -->
+                           </div>
+                           <!-- ./Tab-pane -->
+                           <div class="tab-pane" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
+                              <div class="row">
+                                 <div class="col-lg-6">
+                                    <h3>Evolução</h3>
+                                    <p>Aqui a evolução do seu filho é levado a sério por isso, nossa metodologia possui uma sequência lógica de aprendizagem que oferece aos nossos alunos
+									 a aprendizagem dos conteúdos de forma fácil e objetiva, respeitando seu ritmo e principalmente, suas habilidades.</p>
+                                  
+                                    
+                                 </div>
+                                 <!-- /col-lg -->
+                                 <div class="col-lg-6 res-margin">
+                                    <!-- image -->
+                                    <img src="../img/services/service2.jpg" alt="" class="rounded img-fluid">
+                                    <!-- ornament starts-->
+                                    <div class="ornament-stars" data-aos="fade-right"></div>
+                                 </div>
+                                 <!-- col-lg -->
+                              </div>
+                              <!-- row -->
+                           </div>
+                           <!-- ./Tab-pane -->
+                           <div class="tab-pane" id="tab3" role="tabpanel" aria-labelledby="tab3-tab">
+                              <div class="row">
+                                 <div class="col-lg-6">
+                                    <!-- image -->
+                                    <img src="../img/services/service3.jpg" alt="" class="rounded img-fluid">
+                                    <!-- ornament starts-->
+                                    <div class="ornament-bubbles" data-aos="fade-right"></div>
+                                 </div>
+                                 <!-- col-lg -->
+                                 <div class="col-lg-6">
+                                    <h3>Felicidade</h3>
+                                    <p>Nossas escolas transbordam felicidade, porque aqui, nossos alunos aprendem brincando, e o mais importante, tendo respeitado seu tempo, diferenças e habilidades.</p>
+                                    
+                                 </div>
+                                 <!-- /col-lg -->
+                              </div>
+                              <!-- row -->
+                           </div>
+                           <!-- ./Tab-pane -->
+                           <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4-tab">
+                              <div class="row">
+                                 <div class="col-lg-6">
+                                    <h3>Socialização</h3>
+                                    <p>Preparar a criança para a vida e o convívio social.
+									<br>Além da aprendizagem cognitiva, nosso foco é formar uma sociedade mais justa e que garanta a equidade.</p>
+                                    
+                                 </div>
+                                 <!-- /col-lg -->
+                                 <div class="col-lg-6 res-margin">
+                                    <!-- image -->
+                                    <img src="../img/services/service4.jpg" alt="" class="rounded img-fluid">
+                                    <!-- ornament starts-->
+                                    <div class="ornament-stars" data-aos="fade-right"></div>
+                                 </div>
+                                 <!-- col-lg -->
+                              </div>
+                              <!-- row -->
+                           </div>
+                           <!-- ./Tab-pane -->
+                           <div class="tab-pane" id="tab5" role="tabpanel" aria-labelledby="tab5-tab">
+                              <div class="row">
+                                 <div class="col-lg-6">
+                                    <!-- image -->
+                                    <img src="../img/services/service5.jpg" alt="" class="rounded img-fluid">
+                                    <!-- ornament starts-->
+                                    <div class="ornament-rainbow" data-aos="fade-right"></div>
+                                 </div>
+                                 <!-- col-lg -->
+                                 <div class="col-lg-6">
+                                    <h3>Humanização</h3>
+                                    <p>As pessoas envolvidas em nossa marca <b>AMAM EDUCAÇÃO</b> e consequentemente, amam pessoas, sendo assim, um dos maiores cuidados é com a humanização dos processos
+									e principalmente, com o saber ouvir.</p>
+                                    
+                                 </div>
+                                 <!-- /col-lg -->
+                              </div>
+                              <!-- row -->
+                           </div>
+                           <!-- ./Tab-pane -->
+                        </div>
+                        <!-- ./Tab-content -->
+                     </div>
+                     <!-- vertical-tabs -->
+                  </div>
+                  <!-- /col-lg-6 -->
+               </div>
+               <!-- /row --> 
+            </div>
+            <!-- /container -->
+         </section>
+         <!-- /section ends -->
+         <!-- Section  -->
+ 
          <!-- /section ends--><!-- section-->
+
+         <!-- /section ends-->
+         <!-- section --> 
+         <section id="gallery-home" class="container-fluid bg-tertiary no-bg-sm">
+            <div class="container">
+               <!-- section heading -->  
+               <div class="section-heading text-center text-light">
+                  <h2>Cursos</h2>
+                  <p class="subtitle">Navegue entre os cursos e acesse-os para fazer uma aula.</p>
+               </div>
+               <!-- /section-heading -->
+               <!-- centered Gallery navigation -->
+               <?php include ("../template/cursos.php");?>
+            </div>
+
+         </section>
+
          <section id="team-home" class="container">
             <!-- section heading -->  
             <div class="section-heading text-center">
@@ -596,22 +599,7 @@
             </div>
             <!-- /row-->
          </section>
-         <!-- /section ends-->
-         <!-- section --> 
-         <section id="gallery-home" class="container-fluid bg-tertiary no-bg-sm">
-            <div class="container">
-               <!-- section heading -->  
-               <div class="section-heading text-center text-light">
-                  <h2>Cursos</h2>
-                  <p class="subtitle">Navegue entre os cursos e acesse-os para fazer uma aula.</p>
-               </div>
-               <!-- /section-heading -->
-               <!-- centered Gallery navigation -->
-               <?php include ("../template/cursos.php");?>
-            </div>
-
-         </section>
-         <?php include ("../template/contato.php");?>
+         
 
       </div>
 

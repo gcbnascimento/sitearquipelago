@@ -17,7 +17,7 @@ if($_POST)
 	$user_name		= filter_var($_POST["user_name"], FILTER_SANITIZE_STRING);
 	$user_email		= filter_var($_POST["user_email"], FILTER_SANITIZE_EMAIL);
 	$subject		= filter_var($_POST["subject"], FILTER_SANITIZE_STRING);
-	$message		= filter_var($_POST["msg"], FILTER_SANITIZE_STRING);
+	$message		= filter_var($_POST["message"], FILTER_SANITIZE_STRING);
 	
 	
 	//email body

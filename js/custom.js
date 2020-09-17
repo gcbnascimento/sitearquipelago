@@ -37,7 +37,7 @@ jQuery(function($) {
 			$(this).css('border-color', '');
 			if (!$.trim($(this).val())) { //if this field is empty 
 			  $(this).css('border-color', '#e44747');
-			  $("#contact_results").html('<br><div class="alert alert-danger">Por favor, preencha todos os campos corretamente.</div>').show();
+			  $("#contact_results").html('<br><div class="alert alert-danger">Por favor2, preencha todos os campos corretamente.</div>').show();
 			  
 			  proceed = false; //set do not proceed flag
 			}
@@ -49,16 +49,24 @@ jQuery(function($) {
 				proceed = false; //set do not proceed flag				
 			}
 			});
-
+		
 			if (proceed) //everything looks good! proceed...
 			{
-			//get input field values data to be sent to server
 			var post_data = {
-				'user_name': $('input[name=nome]').val(),
-				'user_email': $('input[name=email]').val(),
-				'subject': $('input[name=telefone]').val(),
-				'msg': $('textarea[name=message]').val()
+				'nome': $('input[name=nome]').val(),
+				'email': $('input[name=email]').val(),
+				'assunto': $('input[name=assunto]').val(),
+				'telefone': $('input[name=telefone]').val(),
+				'message': $('textarea[name=message]').val()
 			};
+
+			$(this).css('border-color', '#e44747'); 
+			$("#contact_results").html('<br><div class="alert alert-success">Olá, '+$('input[name=nome]').val() +'. Sua mensagem foi enviada com sucesso. Entraremos em contato assim que possível, muito obrigado!</div>').show();
+			proceed = false; //set do not proceed flag
+			$("#contact_form input, #contact_form textarea").val('');
+			$('html, body').animate({scrollTop: $("#contact_form").offset().top-50}, 2000);
+
+		
 
 			//Ajax post data to server
 			$.post('php/sendmail.php', post_data, function(response) {

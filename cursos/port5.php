@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a>Home</a></li>
+                        <li class="breadcrumb-item"><a>Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/Demonstrativos/PORT5/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="https://www.dreduca.com.br/dreduca/MATERIAL/port5/mobile/index.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/PORT5/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/port5/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
@@ -100,7 +100,24 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> AULA 17 - Polissemia</li>
+                                             <li> AULA 18 - Adivinhas, trava-línguas</li>
+                                             <li> AULA 19 – Revisão</li>
+                                             <li> AULA 20 - Interpretação de texto</li>
+                                             <li> AULA 21 - Prefixo e sufixo</li>
+                                             <li> AULA 22 - Tipos de textos poesia</li>
+                                             <li> AULA 23 - Porque, por que, porquê e por quê</li>
+                                             <li> AULA 24 - Leitura e interpretação de texto</li>
+                                             <li> AULA 25 – Conjunção</li>
+                                             <li> AULA 26 – Revisão</li>
+                                             <li> AULA 27 - Uso do dicionário</li>
+                                             <li> AULA 28 - Variedades linguísticas</li>
+                                             <li> AULA 29 - Reescrita de histórias</li>
+                                             <li> AULA 30 - Oxítonas, paroxítonas e proparoxítonas</li>
+                                             <li> AULA 31 - Regras de jogos</li>
+                                             <li> AULA 32 - Revisão</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>
@@ -114,7 +131,24 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                             <li> AULA 33 - Formal e informal </li>
+                                             <li> AULA 34 - Leitura e interpretação de texto</li>
+                                             <li> AULA 35 - Tipo de texto diário</li>
+                                             <li> AULA 36 -Seção, sessão</li>
+                                             <li> AULA 37- Concordância entre pronomes e verbos</li>
+                                             <li> AULA 38- Uso da vírgula, dois -pontos e ponto e vírgula</li>
+                                             <li> AULA 39 – Revisão</li>
+                                             <li> AULA 40 - Contos de terror</li>
+                                             <li> AULA 41 - Leitura e interpretação de texto</li>
+                                             <li> AULA 42- Parênteses, aspas e reticencias</li>
+                                             <li> AULA 43 - Uso do travessão</li>
+                                             <li> AULA 44 - Tipos de textos clássicos infantis</li>
+                                             <li> AULA 45 – Revisão</li>
+                                             <li> AULA 46 - Tipos de texto fábulas</li>
+                                             <li> AULA 47 - Trás e traz</li>
+                                             <li> AULA 48 - Leitura e interpretação de texto</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>

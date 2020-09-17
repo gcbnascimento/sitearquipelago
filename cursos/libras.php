@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a>Home</a></li>
+                        <li class="breadcrumb-item"><a>Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/Demonstrativos/LIBRAS/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="https://www.dreduca.com.br/dreduca/MATERIAL/libras1/mobile/index.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/LIBRAS/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/libras1/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
@@ -87,8 +87,8 @@
                                              <li>Aula 14: Eduação / Ensino.</li>
                                              <li>Aula 15: Profissões.</li>
                                              <li>Aula 16: Localidade.</li>
-											 <li>Aula 16: Sistema Financeiro.</li>
-											 <li>Aula 16: Natureza.</li>
+											            <li>Aula 17: Sistema Financeiro.</li>
+											            <li>Aula 18: Natureza.</li>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -102,7 +102,24 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li>Aula 1: Saudações.</li>
+                                             <li>Aula 2: História do Surdo.</li>
+                                             <li>Aula 3: Meios de Transporte.</li>
+                                             <li>Aula 4: Legislação na Área da Surdez e Intérprete de LIBRAS.</li>
+                                             <li>Aula 5: Meios de Comunicação.</li>
+                                             <li>Aula 6: Parâmetros e Transcrição da LIBRAS.</li>
+                                             <li>Aula 7: Órgãos Internos do Corpo Humano.</li>
+                                             <li>Aula 8: Materiais de Construção.</li>
+                                             <li>Aula 9: Sinais Religiosos.</li>
+                                             <li>Aula 10: Medicamentos.</li>
+                                             <li>Aula 11: Sinais Matemáticos.</li>
+                                             <li>Aula 12: Português em LIBRAS.</li>
+                                             <li>Aula 13: Pronomes Possessivos.</li>
+                                             <li>Aula 14:Pronomes Indefinidos.</li>
+                                             <li>Aula 15: Pronomes Demonstrativos / Interrogativos / Advérbio de Lugar.</li>
+                                             <li>Aula 16: Verbo Ir e suas Variações.</li>
+                                              </ul> 
                                        </div>
                                     </div>
                                  </div>
@@ -116,7 +133,25 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li>Aula 1: Contação de História em LIBRAS.</li>
+                                             <li>Aula 2: Poesia em LIBRAS.</li>
+                                             <li>Aula 3: Profissionais de Saúde.</li>
+                                             <li>Aula 4: Sexualidade.</li>
+                                             <li>Aula 5: Técnicas de Tradução de Música.</li>
+                                             <li>Aula 6: Contexto Jurídico.</li>
+                                             <li>Aula 7: Sinais e seus Contextos.</li>
+                                             <li>Aula 8: Estrutura Sintática.</li>
+                                             <li>Aula 9: Informática.</li>
+                                             <li>Aula 10: Classificadores.</li>
+                                             <li>Aula 11: Sinais de Futebol.</li>
+                                             <li>Aula 12: Localidade Espaciais Topográficas.</li>
+                                             <li>Aula 13: Piadas.</li>
+                                             <li>Aula 14: Gramática Formal e Informal.</li>
+                                             <li>Aula 15: Esporte.</li>
+                                             <li>Aula 16: Estados Brasileiros em LIBRAS.</li>
+
+                                              </ul> 
                                        </div>
                                     </div>
                                  </div>

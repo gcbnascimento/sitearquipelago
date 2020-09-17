@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a >Home</a></li>
+                        <li class="breadcrumb-item"><a >Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/Demonstrativos/PORT1/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="https://www.dreduca.com.br/dreduca/MATERIAL/port1/mobile/index.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/PORT1/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/port1/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
@@ -100,7 +100,26 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li>Aula 17- Trabalhando com as letras: s-t</li>
+                                             <li>Aula 18- Trabalhando com as letras: v-x</li>
+                                             <li> Aula 19 - Trabalhando com as letras: w-y</li>
+                                             <li>Aula 20 - Trabalhando com as letras: z</li>
+                                             <li>Aula 21 - Revisão (aulas 17 a 20)</li>
+                                             <li>Aula 22 - Sílabas – B-D-F-J</li>
+                                             <li>Aula 23 - Sílabas – L-M-N-P</li>
+                                             <li>Aula 24 - Sílabas – C-G- H-K</li>
+                                             <li>Aula 25 - Sílabas –K - Q - W</li>
+                                             <li>Aula 26 - Trabalhando com listas – alunos, materiais, animais, doces, esportes, etc</li>
+                                             <li>Aula 27 - Diferentes tipos de texto: história em quadrinhos, poesias</li>
+                                             <li>Aula 28 - Diferentes tipos de texto: parlenda e trava-línguas</li>
+                                             <li>Aula 29 - Diferentes tipos de texto: quadrinha e conto popular</li>
+                                             <li>Aula 30 - Diferentes tipos de texto: adivinhas, jogral e anedotas</li>
+                                             <li>Aula 31 - Diferentes tipos de texto: contos encantamento</li>
+                                             <li>Aula 32 - Revisão (Aulas 22 a 31)</li>
+
+
+                                              </ul>
                                        </div>
                                     </div>
                                  </div>
@@ -114,7 +133,24 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> Aula 33 - Treinando: letras maiúsculas e minúsculas</li>
+                                             <li> Aula 34 - Segmentação de palavras</li>
+                                             <li> Aula 35 - Antônimos e sinônimos</li>
+                                             <li> Aula 36 - Escrita: cartazes e bilhetes</li>
+                                             <li> Aula 37 - Escrita: convites e receitas</li>
+                                             <li> Aula 38 - Revisão (Aulas 33 a 37)</li>
+                                             <li> Aula 39 - Cantigas populares e canções</li>
+                                             <li> Aula 40 - Regras de jogos</li>
+                                             <li> Aula 41 - Lendas</li>
+                                             <li> Aula 42 - Título, nome do autor, local, data e publicação</li>
+                                             <li> Aula 43 - Revisão (Aulas 39 a 42)</li>
+                                             <li> Aula 44 - Uso da escrita: impressos ou digitais (jornais, revistas, sites, livros, dicionários, etc)</li>
+                                             <li> Aula 45 - Função sociocomunicativa da escrita</li>
+                                             <li> Aula 46 - Copie o texto e responda: trabalhando a digitação</li>
+                                             <li> Aula 47 - Fonemas e grafemas</li>
+                                             <li> Aula 48 - Revisão (Aulas 44 a 48)</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>

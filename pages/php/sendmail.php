@@ -1,54 +1,82 @@
 <?php
 
 
+require_once('mailer/src/PHPMailer.php');
+require_once('mailer/src/SMTP.php');
+require_once('mailer/src/Exception.php');
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+if ($_POST) {
 
 
-if($_POST)
-{
-	$to_email   	= 'gustavoblj@hotmail.com'; //Recipient email, Replace with own email here
 	
-	//check if its an ajax request, exit if not
-    if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) AND strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
+	$nome= filter_var($_POST["nome"], FILTER_SANITIZE_STRING);
+	$email		= filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
+	$assunto		= filter_var($_POST["assunto"], FILTER_SANITIZE_STRING);
+	$fone		= filter_var($_POST["telefone"], FILTER_SANITIZE_STRING);
+	$message		= filter_var($_POST["message"], FILTER_SANITIZE_STRING);
+
+
+
+
+    try {
+		$mail->Charset = 'UTF-8';
+        $mail = new PHPMailer(true);
+        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+        $mail->isSMTP();
+        $mail->Host = 'email-ssl.com.br';
+        $mail->SMTPAuth = true;
+        $mail->Username = 'contato@supergeniooficial.com.br';
+        $mail->Password = 'Grupo@2020*';
+		$mail->Port = 587;
+		$mail->CharSet = 'UTF-8';
+		$mail->Encoding = 'quoted-printable';
 		
-		$output = json_encode(array( //create JSON data
-			'type'=>'error', 
-			'text' => 'Sorry Request must be Ajax POST'
-		));
-		die($output); //exit script outputting json data
-    } 
-	
-	//Sanitize input data using PHP filter_var().
-	$user_name		= filter_var($_POST["user_name"], FILTER_SANITIZE_STRING);
-	$user_email		= filter_var($_POST["user_email"], FILTER_SANITIZE_EMAIL);
-	$subject		= 'contato@supergeniooficial.com.br';
-	$message		= filter_var($_POST["msg"], FILTER_SANITIZE_STRING);
-	
-	
-	//email body
-	$message_body = $message."\r\n\r\n-".$user_name."\r\nEmail : ".$user_email;
-	
-	//proceed with PHP email.
-	$headers = 'From '.$user_name.'' . "\r\n" .
-	'Reply-To: '.$user_email.'' . "\r\n" .
-	'X-Mailer: PHP/' . phpversion();
-	
-	$send_mail = mail($to_email, $subject, $message_body, $headers);
-	
-	if(!$send_mail)
-	{
-		//If mail couldn't be sent output error. Check your PHP email configuration (if it ever happens)
-		$output = json_encode(array('type'=>'error', 'text' => '<p>Could not send mail! Please check your PHP mail configuration.</p>'));
-		die($output);
-	}else{
-		// you can edit your success message below  
-		$output = json_encode(array('type'=>'message', 'text' => '<div class="alert alert-success" role="alert">
-		Olá, '.$user_name .', obrigado por sua mensagem. Responderemos em breve.</div>'));
-		die($output);
-	}
+
+        $mail->setFrom('contato@supergeniooficial.com.br');
+        $mail->addAddress('gustavon@grupooportunidade.com.br');
+
+		$mail->isHTML(true);
+		
+        $mail->Subject = '[E-mail SUPER GÊNIO]: '. $assunto;
+        $mail->Body = '[MENSAGEM DO USUÁRIO]: ' .$message. "<br><br>". 'Dados do usuário:'. "<br><br>" . 'Nome: '. $nome. "<br>". 'Email: '.$email. "<br>". 'Telefone: '.$fone;
+        $mail->AltBody = '[MENSAGEM DO USUÁRIO]: ' .$message;
+		$mail->send();
+		
+
+		$mail2->Charset = 'UTF-8';
+        $mail2 = new PHPMailer(true);
+        $mail2->SMTPDebug = SMTP::DEBUG_SERVER;
+        $mail2->isSMTP();
+		$mail2->Host = 'email-ssl.com.br';
+        $mail2->SMTPAuth = true;
+        $mail2->Username = 'contato@supergeniooficial.com.br';
+        $mail2->Password = 'Grupo@2020*';
+		$mail2->Port = 587;
+		$mail2->CharSet = 'UTF-8';
+		$mail2->Encoding = 'quoted-printable';
+		
+
+        $mail2->setFrom('contato@supergeniooficial.com.br');
+        $mail2->addAddress($email);
+
+		$mail2->isHTML(true);
+		
+        $mail2->Subject = '[SUPER GÊNIO]: Olá, '.$nome.', obrigado pelo seu contato em nosso site. ';
+        $mail2->Body = 'Enquando aguarda o contato de nossos consultores, que tal dar uma olhada em um de nossos produtos?'. "<br><br>". 'Acesse: <b>www.supergeniooficial.com.br/pages/pagcursos.php</b> , escolha um curso e depois clique em Material Didático ou Aula Teste.'. "<br><br>".'Equipe Super Gênio';
+		$mail2->send();
+		
+
+    } catch (Exception $e) {
+        echo "Erro ao enviar mensagem: {$mail->ErrorInfo}";
+    }
 }
 
+		
+ 
 
-error_reporting(-1);
-ini_set('display_errors', 'On');
-set_error_handler("var_dump");
+
 ?>

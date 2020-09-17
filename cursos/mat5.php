@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a>Home</a></li>
+                        <li class="breadcrumb-item"><a>Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Matemática 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/cursos/kids/supergenio/port1/aula1/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="contact.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/MAT5/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/mat5/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
@@ -100,7 +100,24 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> AULA 17 - Múltiplos de um número</li>
+                                             <li> AULA 18 - Máximo divisor comum (m.d.c)</li>
+                                             <li> AULA 19 - Mínimo múltiplo comum (m.m.c)</li>
+                                             <li> AULA 20 - Números racionais - Forma fracionária</li>
+                                             <li> AULA 21 - As frações e a porcentagem</li>
+                                             <li> AULA 22 - Adição e subtração de frações</li>
+                                             <li> AULA 23 - Números mistos</li>
+                                             <li> AULA 24 - Multiplicação de frações</li>
+                                             <li> AULA 25 - Divisão de frações</li>
+                                             <li> AULA 26 - Situações problemas envolvendo números fracionários</li>
+                                             <li> AULA 27 - Números racionais - forma decimal</li>
+                                             <li> AULA 28 - Adição e subtração de números decimais</li>
+                                             <li> AULA 29 - Multiplicação de números decimais</li>
+                                             <li> AULA 30 - Divisão de números decimais</li>
+                                             <li> AULA 31 - Situações problemas envolvendo números decimais</li>
+                                             <li> AULA 32 – Potenciação</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>
@@ -114,7 +131,24 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> AULA 33 – Radiciação</li>
+                                             <li> AULA 34 – Expressões numéricas</li>
+                                             <li> AULA 35 – Medidas de comprimento</li>
+                                             <li> AULA 36 – Medidas de superfície</li>
+                                             <li> AULA 37 – Áreas das figuras geométricas planas</li>
+                                             <li> AULA 38 – Medidas de volume</li>
+                                             <li> AULA 39 – Volume dos sólidos geométricos</li>
+                                             <li> AULA 40 – Medidas de capacidade</li>
+                                             <li> AULA 41 – Medidas de massa</li>
+                                             <li> AULA 42 – Medidas de tempo</li>
+                                             <li> AULA 43 – Outros tipos de grandezas (temperatura, sonora, informática)</li>
+                                             <li> AULA 44 – Probabilidades</li>
+                                             <li> AULA 45 – Interpretação de gráficos e tabelas</li>
+                                             <li> AULA 46 – Porcentagem</li>
+                                             <li> AULA 47 – Estatística</li>
+                                             <li> AULA 48 – Matemática financeira</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>

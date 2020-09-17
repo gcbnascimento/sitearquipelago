@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a >Home</a></li>
+                        <li class="breadcrumb-item"><a >Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Matemática 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/Demonstrativos/MAT2/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="https://www.dreduca.com.br/dreduca/MATERIAL/mat2/mobile/index.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/MAT2/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/mat2/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
@@ -71,6 +71,7 @@
                                     <div id="collapseOne" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
+                                              
                                              <li>Aula 1: História dos Números.</li>
                                              <li>Aula 2: Uso dos Números.</li>
                                              <li>Aula 3: Uso dos Símbolos.</li>
@@ -100,7 +101,24 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> AULA 17 – Percurso e localização – geometria - parte 1: perto – longe – frente – centro – atráz </li>
+                                             <li> AULA 18 – Geometria parte 2</li>
+                                             <li> AULA 19 – Geometria parte 3 - Mudanças de direção e sentindo: deslocando-se no espaço a partir do meio em que vive utilizando as habilidades de direita esquerda e centro, acima, abaixo</li>
+                                             <li> AULA 20 – Tabela sólidos geométricos parte 1.  A forma dos objetos; sólidos geométricos</li>
+                                             <li> AULA 21 Tabela sólidos geométricos parte 2 – Resolução de situações problemas com figuras planas</li>
+                                             <li> AULA 22 – Figuras geométricas não planas</li>
+                                             <li> AULA 23 – Geometria parte 03 - Resolução de problemas com figuras planas e não planas</li>
+                                             <li> AULA 24 - Identificar e justificar sequências envolvendo uma regularidade e uma regra</li>
+                                             <li> AULA 25 – Conceitos de estimativas de medidas</li>
+                                             <li> AULA 26 –Medida de comprimento: centímetro e milímetro</li>
+                                             <li> AULA 27 - Medidas de massa: estimativas e medições entre medidas de massa estabelecer relação entre massa e quantidade</li>
+                                             <li> AULA 28 – Grandezas e medidas – Medindo capacidades</li>
+                                             <li> AULA 29 – Consumo consciente da água: A fonte de vida: como a matemática pode ajudar a preservar o bem mais precioso do planeta</li>
+                                             <li> AULA 30 – Medidas de tempo – O relógio e as horas </li>
+                                             <li> AULA 31 – Medindo o tempo: orientação espacial e temporal</li>
+                                             <li> AULA 32 – Sistematizando os conhecimentos: resolução de problemas com base nos conteúdos aprendidos</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>

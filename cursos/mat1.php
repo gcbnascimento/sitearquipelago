@@ -11,8 +11,8 @@
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="services.html">Cursos</a></li>
+                        <li class="breadcrumb-item"><a >Home</a></li>
+                        <li class="breadcrumb-item"><a >Cursos</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Matemática 1º Ano</li>
                      </ol>
                   </nav>
@@ -53,8 +53,8 @@
                                  mas conta com desafios, conquistas, premiações, jogos, etc. 
                                  Tudo com uma linguagem totalmente apropriada para a faixa etária e um curso totalmente interativo para as crianças.  </p>
                               <!-- Button -->	 
-                              <a href="https://www.dreduca.com.br/dreduca/Demonstrativos/MAT1/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
-                              <a href="https://www.dreduca.com.br/dreduca/MATERIAL/mat1/mobile/index.html" class="btn btn-primary mt-2">Material didático</a>
+                              <a href="https://www.dreduca.com.br/ead/Demonstrativos/MAT1/index.html" class="btn btn-secondary mt-2" target="_blank">Aula teste</a>
+                              <a href="https://www.dreduca.com.br/ead/MATERIAL/mat1/mobile/index.html" class="btn btn-primary mt-2" target="_blank">Material didático</a>
                            </div>
                            <!-- /col-md -->
                            <div class="col-md-12 mt-5">
@@ -100,7 +100,24 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> AULA 17 - Resolução de problemas – cálculos simples do cotidiano</li>
+                                             <li> AULA 18 - Problemas utilizando imagens com adição, subtração e comparação</li>
+                                             <li> AULA 19 - Sequência numérica – até 100</li>
+                                             <li> AULA 20 - A reta numérica – para que serve, uso no cotidiano, exercícios utilizando </li>
+                                             <li> AULA 21 - Revisão – aula 14 até 20</li>
+                                             <li> AULA 22 - Números ordinais. (uso, até o 100)</li>
+                                             <li> AULA 23 - Dezena, dúzia e meia dúzia</li>
+                                             <li> AULA 24 - O gráfico de barras – leitura e interpretação</li>
+                                             <li> AULA 25 - Sequência – numérica e de objetos. (organização e ordenação de objetos)</li>
+                                             <li> AULA 26 - Figuras geométricas planas: círculo, quadrado, triângulo e retângulo</li>
+                                             <li> AULA 27 - Figuras geométricas não planas: cubo, esfera, cilindro, cone, paralelepípedo</li>
+                                             <li> AULA 28 - O tangram</li>
+                                             <li> AULA 29 - Revisão: aula 22 até 28</li>
+                                             <li> AULA 30 - Localização espacial</li>
+                                             <li> AULA 31 - Localização através de ponto de referência e ordens – direita/esquerda, em cima/ embaixo, etc</li>
+                                             <li> AULA 32 - Estimativa/ pareamento</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>
@@ -114,7 +131,24 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                       <ul class="custom pl-0">
+                                       <li> AULA 33 - Dezenas inteiras</li>
+                                             <li> AULA 34 - Resolução de problemas</li>
+                                             <li> AULA 35 - Raciocínio lógico</li>
+                                             <li> AULA 36 - Composição e decomposição de números naturais- até 100</li>
+                                             <li> AULA 37 - Preenchimento de dados em tabelas e gráficos simples</li>
+                                             <li> AULA 38 - Problemas (usando os diferentes significados da adição e subtração (juntar, acrescentar, separar, retirar)</li>
+                                             <li> AULA 39 - Elaboração e resolução de problemas</li>
+                                             <li> AULA 40 - Revisão: aulas 30 até 39</li>
+                                             <li> AULA 41 - Grandezas e medidas: noções de comprimento: alto/baixo, comprido/curto, grosso/fino, largo/estreito</li>
+                                             <li> AULA 42 - Noções de massa: leve e pesado</li>
+                                             <li> AULA 43 - Noções de capacidade: cabe mais, cabe menos</li>
+                                             <li> AULA 44 - Noções de tempo: dia/ noite, manhã/tarde/noite, dias da semana, meses do ano</li>
+                                             <li> AULA 45 - Coleta de dados, organização e registros pessoais</li>
+                                             <li> AULA 46 - Cédulas e moedas</li>
+                                             <li> AULA 47 - Medidas não convencionais</li>
+                                             <li> AULA 48 - Revisão: Aulas 41 até 47</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>

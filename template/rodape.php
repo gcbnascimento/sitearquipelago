@@ -10,20 +10,14 @@
                <div class="col-lg-4 text-center">
                   <!-- logo -->
                   <img src="../img/logo_light.png"  class="logo-footer img-fluid" alt=""/>
-                  <h5 class="mt-3">Deixe seu e-mail que entraremos em contato</h5>
+                  
                   <!-- Mailist Form -->				
                   <div id="mc_embed_signup">
                      <!-- your mailist address in the line bellow -->
                      <form action="//listname.list-manage.com/subscribe/post?u=04e646927a196552aaee78a7b&amp;id=0dae358e08" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                         <div id="mc_embed_signup_scroll">
                            <div class="mc-field-group">
-                              <div class="input-group">
-                                 <input class="form-control input-lg required email" type="email" value="" name="EMAIL" placeholder="Seu e-mail aqui" id="mce-EMAIL">
-                                 <span class="input-group-btn">
-                                 <button class="btn btn-tertiary" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">Enviar</button>
-                                 </span>
-                              </div>
-                              <!-- Subscription results -->
+                                                            <!-- Subscription results -->
                               <div id="mce-responses" class="mailchimp">
                                  <div class="alert alert-danger response" id="mce-error-response"></div>
                                  <div class="alert alert-success response" id="mce-success-response"></div>
@@ -42,7 +36,7 @@
                   <h5>Contate-nos</h5>
                   <ul class="list-unstyled mt-3">
                      <li class="mb-1"><i class="fas fa-phone margin-icon "></i>(16) 3252 - 8999</li>
-                     <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">contato@arquipelagodosaber.com.br</a></li>
+                     <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">contato@supergeniooficial.com.br</a></li>
                      <li><i class="fas fa-map-marker margin-icon"></i>Taquaritinga - São Paulo </li>
                   </ul>
                   <!--/ul -->
