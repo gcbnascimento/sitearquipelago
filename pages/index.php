@@ -277,11 +277,138 @@
             <!-- /container -->
          </section>
 
+         <div class="container block-padding">
+               <!-- Team style 3 -->
+               <h3 class="text-center">O que os alunos dizem:</h3>
+               <!-- team carousel -->  
+               <div class="carousel-3items owl-carousel owl-theme mt-5 col-md-12">
+                  <!-- Team member 1 -->
+                  <div class="col-lg-12 team-style3 bg-secondary pattern2">
+                     <!-- image -->
+                     <a href="team-single.html">
+                     <img src="../img/team/silvia.jpeg" class="img-fluid rounded" alt="" />
+                     </a>
+                     <!-- caption -->
+                     <div class="team-caption">
+                        <a href="team-single.html">
+                           <h4>Silvia</h4>
+                        </a>
+                        <h6>Mãe</h6>
+                      </div>
+                     <!-- social icons -->
+                     <div class="icons bg-primary">
+                        <a href="#"><i class="fa fa-envelope"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                     </div>
+                  </div>
+                  <!-- /team-style3 -->
+                  <!-- Team member 2 -->
+                  <div class="col-lg-12 team-style3 bg-secondary pattern2">
+                     <!-- image -->
+                     <a href="team-single.html">
+                     <img src="../img/team/team2.jpg" class="img-fluid rounded" alt="" />
+                     </a>
+                     <!-- caption -->
+                     <div class="team-caption">
+                        <a href="team-single.html">
+                           <h4>John Doe</h4>
+                        </a>
+                        <h6>Administrator</h6>
+                        <p>
+                           Incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosa    
+                        </p>
+                     </div>
+                     <!-- social icons -->
+                     <div class="icons bg-tertiary">
+                        <a href="#"><i class="fa fa-envelope"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                     </div>
+                  </div>
+                  <!-- /team-style3 -->
+                  <!-- Team member 3 -->
+                  <div class="col-lg-12 team-style3 bg-secondary pattern2">
+                     <!-- image -->
+                     <a href="team-single.html">
+                     <img src="../img/team/team3.jpg" class="img-fluid rounded" alt="" />
+                     </a>
+                     <!-- caption -->
+                     <div class="team-caption">
+                        <a href="team-single.html">
+                           <h4>Meghan Smith</h4>
+                        </a>
+                        <h6>Assistant Teacher</h6>
+                        <p>
+                           Incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosa    
+                        </p>
+                     </div>
+                     <!-- social icons -->
+                     <div class="icons bg-primary">
+                        <a href="#"><i class="fa fa-envelope"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                     </div>
+                  </div>
+                  <!-- /team-style3 -->
+                  <!-- Team member 4 -->
+                  <div class="col-lg-12 team-style3 bg-secondary pattern2">
+                     <!-- image -->
+                     <a href="team-single.html">
+                     <img src="../img/team/team4.jpg" class="img-fluid rounded" alt="" />
+                     </a>
+                     <!-- caption -->
+                     <div class="team-caption">
+                        <a href="team-single.html">
+                           <h4>Mika Doe</h4>
+                        </a>
+                        <h6>Teacher</h6>
+                        <p>
+                           Incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosa    
+                        </p>
+                     </div>
+                     <!-- social icons -->
+                     <div class="icons bg-tertiary">
+                        <a href="#"><i class="fa fa-envelope"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                     </div>
+                  </div>
+                  <!-- /team-style3 -->
+                  <!-- Team member 5-->
+                  <div class="col-lg-12 team-style3 bg-secondary pattern2">
+                     <!-- image -->
+                     <a href="team-single.html">
+                     <img src="../img/team/team5.jpg" class="img-fluid rounded" alt="" />
+                     </a>
+                     <!-- caption -->
+                     <div class="team-caption">
+                        <a href="team-single.html">
+                           <h4>Jillian Smith</h4>
+                        </a>
+                        <h6>Assistant teacher</h6>
+                        <p>
+                           Incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosa    
+                        </p>
+                     </div>
+                     <!-- social icons -->
+                     <div class="icons bg-primary">
+                        <a href="#"><i class="fa fa-envelope"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                     </div>
+                  </div>
+                  <!-- /team-style3 -->
+               </div>
+               <!-- /owl-carousel -->   
+            </div>
+         <!-- /se
+
          <section id="about-home" class="container-fluid pb-0">
             <div class="container">
                <!-- section heading -->  
                               <!-- /row -->
-               <h3 class="mt-5 text-center">O que os alunos dizem:</h3>
+               <h3 class="mt-5 text-center">O que as mães dizem:</h3>
                <div class="row">
                   <!-- testimonials -->
                   <!-- testimonial carousel -->
