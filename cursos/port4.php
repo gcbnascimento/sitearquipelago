@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a>Home</a></li>
                         <li class="breadcrumb-item"><a>Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Português 4º Ano</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Português 4º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 9 e 10 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, 
+						respeitando o ritmo e a individualidade de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -73,15 +73,15 @@
                                           <ul class="custom pl-0">
                                              <li>Aula 1: Sílabas, Palavras e Frases.</li>
                                              <li>Aula 2: Parágrafo.</li>
-                                             <li>Aula 3: Lenda.</li>
-                                             <li>Aula 4: Substantivo Concreto.</li>
+                                             <li>Aula 3: Lenda, Mito e Folclore.</li>
+                                             <li>Aula 4: Substantivo Concreto, Abstrato e Coletivo.</li>
                                              <li>Aula 5: Acentuação Tônica.</li>
                                              <li>Aula 6: Regras Especiais de Acentuação.</li>
-                                             <li>Aula 7: Mau e Mal.</li>
+                                             <li>Aula 7: Mau e Mal / Uso do Hífen.</li>
                                              <li>Aula 8: Produzindo um Texto Poético.</li>
                                              <li>Aula 9: Onomatopeia.</li>
                                              <li>Aula 10: História em Quadrinhos.</li>
-                                             <li>Aula 11: Onde ou Aonde.</li>
+                                             <li>Aula 11: Onde ou Aonde / Adjetivos Pátrios.</li>
                                              <li>Aula 12: Mas / Mais / Más.</li>
                                              <li>Aula 13: Contos de Fadas.</li>
                                              <li>Aula 14: Palavras com S com Som de Z.</li>
@@ -101,18 +101,18 @@
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 17: Relato.</li>
-                                             <li>Aula 18: Texto de Divulgação Científica.</li>
-                                             <li>Aula 19: Verbos.</li>
-                                             <li>Aula 20: Verbos (Tempos Verbais).</li>
+                                             <li>Aula 17: Relato Pessoal / Relato de Experiência Científica.</li>
+                                             <li>Aula 18: Tipos de Divulgação Científica.</li>
+                                             <li>Aula 19: Verbos - Classificação dos Verbos e Modos Verbais.</li>
+                                             <li>Aula 20: Verbos (Tempos Verbais) - Conjugação dos Verbos.</li>
                                              <li>Aula 21: Contos de Assombração.</li>
                                              <li>Aula 22: Ponto e Vírgula.</li>
                                              <li>Aula 23: Entrevista.</li>
-                                             <li>Aula 24: Notícia.</li>
+                                             <li>Aula 24: Notícia / Reportagem / Outros Textos Jornalísticos.</li>
                                              <li>Aula 25: Sinais de Pontuação.</li>
-                                             <li>Aula 26: Biografia.</li>
+                                             <li>Aula 26: Biografia & Autobiografia.</li>
                                              <li>Aula 27: Substantivo e Adjetivo.</li>
-                                             <li>Aula 28: Palavras com G e J.</li>
+                                             <li>Aula 28: Palavras com G / J e Palavras com AM / ÃO.</li>
                                              <li>Aula 29: Propaganda / Anúncio Publicitário.</li>
                                              <li>Aula 30: Por que / Por quê / Porque / Porquê.</li>
                                              <li>Aula 31: Revisão Parte 1.</li>
@@ -131,18 +131,18 @@
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 33: Uso do Este / Esse.</li>
-                                             <li>Aula 34: Terminações Ice / Isse.</li>
+                                             <li>Aula 33: Uso do ESTE / ESTA / ISTO / ESSE / ESSA / ISSO.</li>
+                                             <li>Aula 34: Terminações Ice e Isse / Flexões Verbais.</li>
                                              <li>Aula 35: Prefixo.</li>
-                                             <li>Aula 36: Os Sulfixos.</li>
+                                             <li>Aula 36: Sulfixos Nominais / Verbais / Adverbiais</li>
                                              <li>Aula 37: Palavras com Li e Lhi.</li>
                                              <li>Aula 38: Sujeito e Predicado na Oração.</li>
                                              <li>Aula 39: Plural das Palavras.</li>
                                              <li>Aula 40: Figura de Linguagem.</li>
-                                             <li>Aula 41: Encontro Vocálico.</li>
+                                             <li>Aula 41: Encontro Vocálico - Hiato, Ditongo e Tritongo.</li>
                                              <li>Aula 42: Pronomes.</li>
                                              <li>Aula 43: Dígrafos.</li>
-                                             <li>Aula 44: Concordância.</li>
+                                             <li>Aula 44: Concordância Verbal e Nominal.</li>
                                              <li>Aula 45: M antes de P e B.</li>
                                              <li>Aula 46: Uso das Letras: K - W - Y.</li>
                                              <li>Aula 47: Redação.</li>

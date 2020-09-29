@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a >Home</a></li>
                         <li class="breadcrumb-item"><a >Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Matemática 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Matemática 2º Ano</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Matemática 2º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 7 e 8 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, respeitando o ritmo e a 
+						individualidade de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -102,22 +102,22 @@
                                     <div id="collapseTwo" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                        <ul class="custom pl-0">
-                                       <li> AULA 17 – Percurso e localização – geometria - parte 1: perto – longe – frente – centro – atráz </li>
-                                             <li> AULA 18 – Geometria parte 2</li>
-                                             <li> AULA 19 – Geometria parte 3 - Mudanças de direção e sentindo: deslocando-se no espaço a partir do meio em que vive utilizando as habilidades de direita esquerda e centro, acima, abaixo</li>
-                                             <li> AULA 20 – Tabela sólidos geométricos parte 1.  A forma dos objetos; sólidos geométricos</li>
-                                             <li> AULA 21 Tabela sólidos geométricos parte 2 – Resolução de situações problemas com figuras planas</li>
-                                             <li> AULA 22 – Figuras geométricas não planas</li>
-                                             <li> AULA 23 – Geometria parte 03 - Resolução de problemas com figuras planas e não planas</li>
-                                             <li> AULA 24 - Identificar e justificar sequências envolvendo uma regularidade e uma regra</li>
-                                             <li> AULA 25 – Conceitos de estimativas de medidas</li>
-                                             <li> AULA 26 –Medida de comprimento: centímetro e milímetro</li>
-                                             <li> AULA 27 - Medidas de massa: estimativas e medições entre medidas de massa estabelecer relação entre massa e quantidade</li>
-                                             <li> AULA 28 – Grandezas e medidas – Medindo capacidades</li>
-                                             <li> AULA 29 – Consumo consciente da água: A fonte de vida: como a matemática pode ajudar a preservar o bem mais precioso do planeta</li>
-                                             <li> AULA 30 – Medidas de tempo – O relógio e as horas </li>
-                                             <li> AULA 31 – Medindo o tempo: orientação espacial e temporal</li>
-                                             <li> AULA 32 – Sistematizando os conhecimentos: resolução de problemas com base nos conteúdos aprendidos</li>
+                                       <li> Aula 17 – Percurso e localização – geometria - parte 1: perto – longe – frente – centro – atráz </li>
+                                             <li> Aula 18 – Geometria parte 2</li>
+                                             <li> Aula 19 – Geometria parte 3 - Mudanças de direção e sentindo: deslocando-se no espaço a partir do meio em que vive utilizando as habilidades de direita esquerda e centro, acima, abaixo</li>
+                                             <li> Aula 20 – Tabela sólidos geométricos parte 1.  A forma dos objetos; sólidos geométricos</li>
+                                             <li> Aula 21 Tabela sólidos geométricos parte 2 – Resolução de situações problemas com figuras planas</li>
+                                             <li> Aula 22 – Figuras geométricas não planas</li>
+                                             <li> Aula 23 – Geometria parte 03 - Resolução de problemas com figuras planas e não planas</li>
+                                             <li> Aula 24 - Identificar e justificar sequências envolvendo uma regularidade e uma regra</li>
+                                             <li> Aula 25 – Conceitos de estimativas de medidas</li>
+                                             <li> Aula 26 –Medida de comprimento: centímetro e milímetro</li>
+                                             <li> Aula 27 - Medidas de massa: estimativas e medições entre medidas de massa estabelecer relação entre massa e quantidade</li>
+                                             <li> Aula 28 – Grandezas e medidas – Medindo capacidades</li>
+                                             <li> Aula 29 – Consumo consciente da água: A fonte de vida: como a matemática pode ajudar a preservar o bem mais precioso do planeta</li>
+                                             <li> Aula 30 – Medidas de tempo – O relógio e as horas </li>
+                                             <li> Aula 31 – Medindo o tempo: orientação espacial e temporal</li>
+                                             <li> Aula 32 – Sistematizando os conhecimentos: resolução de problemas com base nos conteúdos aprendidos</li>
                                        </ul>
                                        </div>
                                     </div>
@@ -132,7 +132,24 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
-                                          <p></p>
+                                         <ul class="custom pl-0">
+                                             <li> Aula 33 – Contagem da quantidade de elementos a partir de agrupamente em dúzia e meia dúzia</li>
+                                             <li> Aula 34 – Duplas e Pares - Multiplicação por 2</li>
+                                             <li> Aula 35 – Multiplicando por 3</li>
+                                             <li> Aula 36 - O que é Metade?</li>
+                                             <li> Aula 37 – Entendendo o conceito de Dobro e Triplo</li>
+                                             <li> Aula 38 – Revisão das Aulas 33 até 37</li>
+                                             <li> Aula 39 - Simetria</li>
+                                             <li> Aula 40 – Lateralidade / Noções Espaciais</li>
+                                             <li> Aula 41 – Orientação Espacial</li>
+                                             <li> Aula 42 - Movimentação e Localização em Malha Quadriculada</li>
+                                             <li> Aula 43 – Revisão das Aulas 39 a 42</li>
+                                             <li> Aula 44 – Noção de Acaso: Classificação de Eventos em "Pouco Prováveis", "Muito Prováveis", "Improváveis" ou "Impossíveis"</li>
+                                             <li> Aula 45 – Sistema Monetário Brasileiro: Reconhecimento e Equivalência entre Cédulas e Moedas Brasileiras </li>
+                                             <li> Aula 46 – Gráficos - Coleta e Classificação de Informação em Tabelas</li>
+                                             <li> Aula 47 – Mais um pouco de Multiplicação e Divisão</li>
+											 <li> Aula 48 – Aprendendo a usar a Calculadora</li>
+                                       </ul>
                                        </div>
                                     </div>
                                  </div>

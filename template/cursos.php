@@ -38,50 +38,7 @@
                      </div>
                   </div>
                </div>
-               <!-- Image 2 -->
-               <div class="col-sm-6 col-md-6 col-lg-4 info">
-                  <div class="portfolio-item">
-                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery2.jpg" alt="">
-                        <span class="overlay-mask"></span>
-                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
-                        <i class="fa fa-eye"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <!-- Image 3 -->
-               <div class="col-sm-6 col-md-6 col-lg-4 info">
-                  <div class="portfolio-item">
-                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery3.jpg" alt="">
-                        <span class="overlay-mask"></span>
-                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
-                        <i class="fa fa-eye"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <!-- Image 4 -->
-               <div class="col-sm-6 col-md-6 col-lg-4 info">
-                  <div class="portfolio-item">
-                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery4.jpg" alt="">
-                        <span class="overlay-mask"></span>
-                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
-                        <i class="fa fa-eye"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <!-- Image 5 -->
-               <div class="col-sm-6 col-md-6 col-lg-4 info">
-                  <div class="portfolio-item">
-                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery5.jpg" alt="">
-                        <span class="overlay-mask"></span>
-                        <a href="../cursos/informatica.php" class="link centered" title="Clique para saber mais.">
-                        <i class="fa fa-eye"></i></a>
-                     </div>
-                  </div>
-               </div>
+              
                
                <!-- Image 6 -->
                <div class="col-sm-6 col-md-6 col-lg-4 port">
@@ -204,28 +161,7 @@
                      </div>
                   </div>
                </div>
-			   <!-- Image 17 -->
-               <div class="col-sm-6 col-md-6 col-lg-4 lib">
-                  <div class="portfolio-item">
-                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery17.jpg" alt="">
-                        <span class="overlay-mask"></span>
-                        <a href="../cursos/libras.php" class="link centered" title="Clique para saber mais.">
-                        <i class="fa fa-eye"></i></a>
-                     </div>
-                  </div>
-               </div>
-			   <!-- Image 18 -->
-               <div class="col-sm-6 col-md-6 col-lg-4 lib">
-                  <div class="portfolio-item">
-                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="../img/gallery/gallery18.jpg" alt="">
-                        <span class="overlay-mask"></span>
-                        <a href="../cursos/libras.php" class="link centered" title="Clique para saber mais.">
-                        <i class="fa fa-eye"></i></a>
-                     </div>
-                  </div>
-               </div>
+			 
 			    <!-- Image 19 -->
                <div class="col-sm-6 col-md-6 col-lg-4 rob">
                   <div class="portfolio-item">

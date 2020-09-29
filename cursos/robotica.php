@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a>Home</a></li>
                         <li class="breadcrumb-item"><a >Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Robótica</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,8 @@
                      <div class="col-md-12">
                         <h2>Robótica</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 8 a 12 anos.</p>
+                        <p> Em nosso curso o aluno aprende através de gamificação conceitos básicos da elétrica, eletrônica e da programação e construção de projetos robóticos, utilizando componentes eletrônicos.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -135,7 +134,7 @@
                         <h5 class="sidebar-header">Informações</h5>
                         <div class="list-group">
                            <a href="#" class="list-group-item list-group-item-action active">
-                           48 Horas
+                           36 Horas
                            </a>
                            <a href="#" class="list-group-item list-group-item-action">Aulas interativas</a>
                            <a href="#" class="list-group-item list-group-item-action">Apostilas gamificadas</a>

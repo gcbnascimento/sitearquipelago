@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a>Home</a></li>
                         <li class="breadcrumb-item"><a >Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Matemática 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Matemática 3º Ano</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Matemática 3º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 8 e 9 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, 
+						respeitando o ritmo e a individualidade de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -71,15 +71,15 @@
                                     <div id="collapseOne" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 1: Metodologia.</li>
+                                             <li>Aula 1: Sistema de Numeração Decimal.</li>
                                              <li>Aula 2: Ler e Escrever os Números.</li>
                                              <li>Aula 3: Os Números do nosso dia a dia.</li>
-                                             <li>Aula 4: Interpretanto os números do dia a dia.</li>
-                                             <li>Aula 5: Adição Simples.</li>
+                                             <li>Aula 4: Pares e Ímpares / Interpretanto os números.</li>
+                                             <li>Aula 5: Adição e Subtração Simples.</li>
                                              <li>Aula 6: Subtração com Empréstimo.</li>
-                                             <li>Aula 7: Prova Real.</li>
-                                             <li>Aula 8: Problemas Matemáticos.</li>
-                                             <li>Aula 9: Aprendendo a Tabuada.</li>
+                                             <li>Aula 7: Prova Real da Adição e Subtração.</li>
+                                             <li>Aula 8: Problemas Matemáticos da Adição / Unidade de Medida e Tempo.</li>
+                                             <li>Aula 9: Aprendendo a Tabuada do 1 e do 2.</li>
                                              <li>Aula 10: Aprendendo a Tabuada do 3 e do 4.</li>
                                              <li>Aula 11: Aprendendo a Tabuada do 5.</li>
                                              <li>Aula 12: Aprendendo a Tabuada do 6.</li>
@@ -105,13 +105,13 @@
                                              <li>Aula 18: Multiplicação.</li>
                                              <li>Aula 19: Multiplicação com Reservas.</li>
                                              <li>Aula 20: Revisando o Conteúdo.</li>
-                                             <li>Aula 21: Figuras Geométricas Planas.</li>
-                                             <li>Aula 22: Área.</li>
+                                             <li>Aula 21: Figuras Geométricas Planas e não Planas.</li>
+                                             <li>Aula 22: Área e Perímetro.</li>
                                              <li>Aula 23: Gráficos e Tabelas.</li>
                                              <li>Aula 24: Divisão Nível 1 e 2.</li>
-                                             <li>Aula 25: Prova Real.</li>
+                                             <li>Aula 25: Prova Real da Multiplicação e da Divisão.</li>
                                              <li>Aula 26: Expressões Numéricas.</li>
-                                             <li>Aula 27: Decompondo Quadrados e Retângulos.</li>
+                                             <li>Aula 27: Decompondo e Compondo Figuras.</li>
 											 <li>Aula 28: Desafios Matemáticos.</li>
                                              </ul>   </div>
                                     </div>
@@ -129,22 +129,22 @@
                                           <ul class="custom pl-0">
                                              <li>Aula 29: Tangram.</li>
                                              <li>Aula 30: Raciocínio Lógico.</li>
-                                             <li>Aula 31: Frações.</li>
-                                             <li>Aula 32: Pensar em Frações.</li>
+                                             <li>Aula 31: Frações - Ler e Entender Frações.</li>
+                                             <li>Aula 32: Frações - Pensar e Enxergar Frações.</li>
                                              <li>Aula 33: Números Decimais.</li>
                                              <li>Aula 34: Comparando Números Decimais.</li>
-                                             <li>Aula 35: Adição de Números Decimais.</li>
-                                             <li>Aula 36: Horas, Minutos e Segundos.</li>
-                                             <li>Aula 37: Você Lembra o que é Centena, Dezena e Unidade?.</li>
+                                             <li>Aula 35: Adição e Subtração de Números Decimais.</li>
+                                             <li>Aula 36: Horas, Minutos e Segundos no Relógio Analógico e Digital.</li>
+                                             <li>Aula 37: Subtração com Duas ou mais Casas.</li>
                                              <li>Aula 38: Prova Real da Subtração e Adição.</li>
                                              <li>Aula 39: Multiplicação.</li>
-                                             <li>Aula 40: Posição dos Algarismos.</li>
-                                             <li>Aula 41: Tudo sobre Medidas.</li>
+                                             <li>Aula 40: Multiplicação com Reservas.</li>
+                                             <li>Aula 41: Unidades de Medidas.</li>
                                              <li>Aula 42: Gráficos e Tabelas.</li>
-                                             <li>Aula 43: Decompondo Quadrados e Retângulos.</li>
-                                             <li>Aula 44: Figuras Geométricas Planas.</li>
-											 <li>Aula 45: Frações.</li>
-											 <li>Aula 46: Numeral Multiplicativo.</li>
+                                             <li>Aula 43: Composição e Decomposição de Figuras Geométricas.</li>
+                                             <li>Aula 44: Figuras Geométricas Planas e não Planas.</li>
+											 <li>Aula 45: Frações - Representações Numéricas e Denominadores da Fração.</li>
+											 <li>Aula 46: Numeros Multiplicativos.</li>
 											 <li>Aula 47: Prova Real da Multiplicação e da Divisão.</li>
 											 <li>Aula 48: Sistema de Numeração Decimal.</li>
                                               </ul>   </div>

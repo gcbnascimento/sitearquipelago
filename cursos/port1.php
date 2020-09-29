@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Português 1º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 6 e 7 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, 
+						respeitando o ritmo e a individualidade de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -71,14 +71,14 @@
                                     <div id="collapseOne" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 1: O Alfabeto.</li>
+                                             <li>Aula 1: O Alfabeto e Ordem Alfabética.</li>
                                              <li>Aula 2: Letras, Números e Símbolos.</li>
                                              <li>Aula 3: Ficha de Identificação Pessoal.</li>
                                              <li>Aula 4: Nomes Próprios e Comuns.</li>
                                              <li>Aula 5: Vogais A e E.</li>
                                              <li>Aula 6: Vogais I - O - U.</li>
                                              <li>Aula 7: Consoantes.</li>
-                                             <li>Aula 8: Revisão.</li>
+                                             <li>Aula 8: Revisão (aulas 1 a 7).</li>
                                              <li>Aula 9: Letras B e C.</li>
                                              <li>Aula 10: Letras D e F.</li>
                                              <li>Aula 11: Letras G e H.</li>
@@ -86,7 +86,7 @@
                                              <li>Aula 13: Letras L e M.</li>
                                              <li>Aula 14: Letras N e P.</li>
                                              <li>Aula 15: Letras Q e R.</li>
-                                             <li>Aula 16: Revisão.</li>
+                                             <li>Aula 16: Revisão (aulas 9 a 15).</li>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -109,7 +109,7 @@
                                              <li>Aula 22 - Sílabas – B-D-F-J</li>
                                              <li>Aula 23 - Sílabas – L-M-N-P</li>
                                              <li>Aula 24 - Sílabas – C-G- H-K</li>
-                                             <li>Aula 25 - Sílabas –K - Q - W</li>
+                                             <li>Aula 25 - Sílabas – K-Q-W</li>
                                              <li>Aula 26 - Trabalhando com listas – alunos, materiais, animais, doces, esportes, etc</li>
                                              <li>Aula 27 - Diferentes tipos de texto: história em quadrinhos, poesias</li>
                                              <li>Aula 28 - Diferentes tipos de texto: parlenda e trava-línguas</li>

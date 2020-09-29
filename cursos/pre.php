@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a>Home</a></li>
                         <li class="breadcrumb-item"><a>Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Pré-Alfabetização</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Pré - Alfabetização</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 5 e 6 anos.</p>
+                        <p> O curso de pré-alfabetização oferece ao aluno todos os conhecimentos necessários para que ele ingresse no Ensino Fundamental I 
+						totalmente preparado, em todos os aspectos: cognitivo, motor, psicossocial e de linguagem.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -120,6 +120,35 @@
                                     </div>
                                  </div>
                                  <!-- /card -->
+								   <!-- collapsible accordion 2 -->
+                                 <div class="card">
+                                    <div class="card-header">
+                                       <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
+                                       Módulo 3
+                                       </a>
+                                    </div>
+                                    <div id="collapseThree" class="collapse" data-parent=".accordion">
+                                       <div class="card-body">
+                                          <ul class="custom pl-0">
+                                             <li>Aula 32: Meios de Transportes.</li>
+                                             <li>Aula 33: Vivendo em Sociedade - Regras, Valores e Hábitos.</li>
+                                             <li>Aula 34: Tipos de Moradia.</li>
+                                             <li>Aula 35: Linguagem Visual - Pintura, Dobradura e Colagem.</li>
+                                             <li>Aula 36: Linguagem Artística - Danças, Artes Visuais, Teatro e Música.</li>
+                                             <li>Aula 37: Importância das Atividades Físicas.</li>
+                                             <li>Aula 38: Função Social dos Números.</li>
+                                             <li>Aula 39: Comparação de Quantidades e Tamanhos.</li>
+                                             <li>Aula 40: Antecessor e Sucessor.</li>
+                                             <li>Aula 41: Medidas de Distância e Tamanhos.</li>
+                                             <li>Aula 42: Formas Geométricas.</li>
+                                             <li>Aula 43: Exploração e Representação das Formas no Tangran.</li>
+                                             <li>Aula 44: Uso do Calendário.</li>
+											 <li>Aula 45: Moeda Brasileira.</li>
+											 <li>Aula 46: Uso do Dinheiro.</li>
+											 </ul>   </div>
+                                    </div>
+                                 </div>
+                                 <!-- /card -->
                                 
                               </div>
                               <!-- /accordion -->
@@ -145,7 +174,7 @@
                         <h5 class="sidebar-header">Informações</h5>
                         <div class="list-group">
                            <a href="#" class="list-group-item list-group-item-action active">
-                           48 Horas
+                           46 Horas
                            </a>
                            <a href="#" class="list-group-item list-group-item-action">Aulas interativas</a>
                            <a href="#" class="list-group-item list-group-item-action">Apostilas gamificadas</a>

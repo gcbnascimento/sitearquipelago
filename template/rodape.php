@@ -35,7 +35,7 @@
                <div class="col-lg-4 text-center res-margin">
                   <h5>Contate-nos</h5>
                   <ul class="list-unstyled mt-3">
-                     <li class="mb-1"><i class="fas fa-phone margin-icon "></i>(16) 3252 - 8999</li>
+                     <li class="mb-1"><i class="fas fa-phone margin-icon "></i>(16) 3253 - 8999</li>
                      <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a href="mailto:email@yoursite.com">contato@supergeniooficial.com.br</a></li>
                      <li><i class="fas fa-map-marker margin-icon"></i>Taquaritinga - São Paulo </li>
                   </ul>
@@ -65,7 +65,7 @@
             <hr/>
             <div class="row">
                <div class="credits col-sm-12">
-                  <p>Copyright 2020 / Designed by <a href="http://www.grupooportunidade.com.br">Grupo Oportunidade</a></p>
+                  <p>Copyright 2020 / Designed by Super Gênio</a></p>
                </div>
             </div>
             <!--/row-->

@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a>Home</a></li>
                         <li class="breadcrumb-item"><a>Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Português 3º Ano</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Português 3º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 8 e 9 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, 
+						respeitando o ritmo e a individualidade de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -108,7 +108,7 @@
                                              <li>Aula 21: Conceito de Substantivo.</li>
                                              <li>Aula 22: Tipos de Substantivos.</li>
                                              <li>Aula 23: Substantivo Masculino e Feminino.</li>
-                                             <li>Aula 24: Número do Substantivo.</li>
+                                             <li>Aula 24: Singular e Plural.</li>
                                              <li>Aula 25: Aumentativo e Diminutivo.</li>
                                              <li>Aula 26: Adjetivos.</li>
                                              <li>Aula 27: Letras S e Z.</li>
@@ -132,21 +132,21 @@
                                              <li>Aula 31: Fonemas.</li>
                                              <li>Aula 32: Uso da Letra C, Ç, U e L .</li>
                                              <li>Aula 33: O que são Pronomes?</li>
-                                             <li>Aula 34: Definição de Pronome de Tratamento.</li>
+                                             <li>Aula 34: Pronome de Tratamento.</li>
                                              <li>Aula 35: An, En, In, On, Un.</li>
                                              <li>Aula 36: Uso do Sinal "Til".</li>
-                                             <li>Aula 37: Família Silábica da Letra C.</li>
-                                             <li>Aula 38: Bilhete - Relembre.</li>
-                                             <li>Aula 39: Frases Exclamativas.</li>
+                                             <li>Aula 37: Uso do CE e CI.</li>
+                                             <li>Aula 38: Gênero Textual Carta.</li>
+                                             <li>Aula 39: Frases Exclamativas e Interrogativas.</li>
                                              <li>Aula 40: Gênero Textual Fábula.</li>
                                              <li>Aula 41: O que são Sílabas.</li>
                                              <li>Aula 42: Regras de Divisão das Sílabas.</li>
                                              <li>Aula 43: Sinônimos e Antônimos.</li>
-                                             <li>Aula 44: Substantivos.</li>
-											 <li>Aula 45: Emprego de "S+S".</li>
+                                             <li>Aula 44: Revisando Substantivos.</li>
+											 <li>Aula 45: ES, SS, Ç.</li>
 											 <li>Aula 46: Conhecendo Melhor o "X".</li>
 											 <li>Aula 47: Uso da Letra M.</li>
-											 <li>Aula 48: Fonemas.</li>
+											 <li>Aula 48: É hora de Revisar.</li>
                                               </ul>   </div>
                                     </div>
                                  </div>

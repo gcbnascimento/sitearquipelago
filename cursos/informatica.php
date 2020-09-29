@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a >Home</a></li>
                         <li class="breadcrumb-item"><a >Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Português 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Informática</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,10 @@
                      <div class="col-md-12">
                         <h2>Informática</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 7 a 11 anos.</p>
+                        <p> Os conhecimentos de informática são essenciais para todas as pessoas, e no caso das crianças, auxiliam o processo de aprendizagem, acelerando o 
+						desenvolvimento intelectual. Através do nosso software totalmente gamificado, o aluno terá garantido aprendizado, vivências e experiências incríveis, 
+						além de desenvolver habilidades socioemocionais.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -65,11 +66,11 @@
                                     <div id="collapseC" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/windows10kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Windows kids </a><br>
-                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/word2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Word kids </a><br>
-                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/excel2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Excel kids </a><br>
-                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/powerpoint2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila PowerPoint kids </a><br>
-                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/internet2016kids/mobile/index.html"> <i class="fa fa-book" style="color:#035392" aria-hidden="true" target="_blank"></i> &nbsp;  Apostila Internet kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/windows10kids/mobile/index.html" target="_blank"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Windows kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/word2016kids/mobile/index.html" target="_blank"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Word kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/excel2016kids/mobile/index.html" target="_blank"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Excel kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/powerpoint2016kids/mobile/index.html" target="_blank"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila PowerPoint kids </a><br>
+                                         <a href="https://www.dreduca.com.br/ead/MATERIAL/informatica/internet2016kids/mobile/index.html" target="_blank"> <i class="fa fa-book" style="color:#035392" aria-hidden="true"></i> &nbsp;  Apostila Internet kids </a><br>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -112,9 +113,9 @@
                                              <li>Aula 14: Pen Drive.</li>
                                              <li>Aula 15: Configurações.</li>
                                              <li>Aula 16: Windows Media Player.</li>
-											 <li>Aula 16: Aplicativo E-mail.</li>
-											 <li>Aula 16: Microsoft Edge / Cortana.</li>
-											 <li>Aula 16: Fase Final.</li>
+											 <li>Aula 17: Aplicativo E-mail.</li>
+											 <li>Aula 18: Microsoft Edge / Cortana.</li>
+											 <li>Aula 19: Fase Final.</li>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -275,7 +276,7 @@
                         <h5 class="sidebar-header">Informações</h5>
                         <div class="list-group">
                            <a href="#" class="list-group-item list-group-item-action active">
-                           48 Horas
+                           95 Horas
                            </a>
                            <a href="#" class="list-group-item list-group-item-action">Aulas interativas</a>
                            <a href="#" class="list-group-item list-group-item-action">Apostilas gamificadas</a>

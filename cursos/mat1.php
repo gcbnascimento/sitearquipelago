@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Matemática 1º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 6 e 7 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, respeitando o ritmo e a individualidade 
+						de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -77,16 +77,16 @@
                                              <li>Aula 4: Leitura e Escrita dos Número até 10.</li>
                                              <li>Aula 5: Contagem de 0 a 50 - Antecessor e Sucessor.</li>
                                              <li>Aula 6: Leitura e Escrita dos Número até 100.</li>
-                                             <li>Aula 7: Revisão 1.</li>
+                                             <li>Aula 7: Revisão 1 (aulas 1 a 6).</li>
                                              <li>Aula 8: Leitura de Tabelas Simples.</li>
                                              <li>Aula 9: Orientação Espacial I.</li>
                                              <li>Aula 10: Orientação Espacial II.</li>
                                              <li>Aula 11: Orientação Espacial III.</li>
                                              <li>Aula 12: Medidas de Tempo.</li>
-                                             <li>Aula 13: Símbolos Matemáticos.</li>
-                                             <li>Aula 14: Adição Simples.</li>
-                                             <li>Aula 15: Subtração Simples.</li>
-                                             <li>Aula 16: Revisão 2.</li>
+                                             <li>Aula 13: Símbolos Matemáticos +, - e =.</li>
+                                             <li>Aula 14: Adição Simples - Uso no Cotidiano.</li>
+                                             <li>Aula 15: Subtração Simples - Uso no Cotidiano.</li>
+                                             <li>Aula 16: Revisão 2 (aulas 8 a 5).</li>
                                               </ul>   </div>
                                     </div>
                                  </div>
@@ -105,7 +105,7 @@
                                              <li> AULA 18 - Problemas utilizando imagens com adição, subtração e comparação</li>
                                              <li> AULA 19 - Sequência numérica – até 100</li>
                                              <li> AULA 20 - A reta numérica – para que serve, uso no cotidiano, exercícios utilizando </li>
-                                             <li> AULA 21 - Revisão – aula 14 até 20</li>
+                                             <li> AULA 21 - Revisão (aulaa 14 a 20)</li>
                                              <li> AULA 22 - Números ordinais. (uso, até o 100)</li>
                                              <li> AULA 23 - Dezena, dúzia e meia dúzia</li>
                                              <li> AULA 24 - O gráfico de barras – leitura e interpretação</li>
@@ -113,7 +113,7 @@
                                              <li> AULA 26 - Figuras geométricas planas: círculo, quadrado, triângulo e retângulo</li>
                                              <li> AULA 27 - Figuras geométricas não planas: cubo, esfera, cilindro, cone, paralelepípedo</li>
                                              <li> AULA 28 - O tangram</li>
-                                             <li> AULA 29 - Revisão: aula 22 até 28</li>
+                                             <li> AULA 29 - Revisão (aulas 22 a 28)</li>
                                              <li> AULA 30 - Localização espacial</li>
                                              <li> AULA 31 - Localização através de ponto de referência e ordens – direita/esquerda, em cima/ embaixo, etc</li>
                                              <li> AULA 32 - Estimativa/ pareamento</li>
@@ -139,7 +139,7 @@
                                              <li> AULA 37 - Preenchimento de dados em tabelas e gráficos simples</li>
                                              <li> AULA 38 - Problemas (usando os diferentes significados da adição e subtração (juntar, acrescentar, separar, retirar)</li>
                                              <li> AULA 39 - Elaboração e resolução de problemas</li>
-                                             <li> AULA 40 - Revisão: aulas 30 até 39</li>
+                                             <li> AULA 40 - Revisão (aulas 30 a 39)</li>
                                              <li> AULA 41 - Grandezas e medidas: noções de comprimento: alto/baixo, comprido/curto, grosso/fino, largo/estreito</li>
                                              <li> AULA 42 - Noções de massa: leve e pesado</li>
                                              <li> AULA 43 - Noções de capacidade: cabe mais, cabe menos</li>
@@ -147,7 +147,7 @@
                                              <li> AULA 45 - Coleta de dados, organização e registros pessoais</li>
                                              <li> AULA 46 - Cédulas e moedas</li>
                                              <li> AULA 47 - Medidas não convencionais</li>
-                                             <li> AULA 48 - Revisão: Aulas 41 até 47</li>
+                                             <li> AULA 48 - Revisão (aulas 41 a 47)</li>
                                        </ul>
                                        </div>
                                     </div>

@@ -33,7 +33,7 @@
                          <!-- contact-icon info-->
                          <div class="contact-icon-info">
                             <h5>Visite-nos</h5>
-                            <p>Taquaritinga - São Paulo</p>
+                            <p>Praça Tóquio, 333 <br> Taquaritinga - São Paulo</p>
                          </div>
                       </div>
                       <!-- /contact-icon-->
@@ -46,7 +46,7 @@
                          <!-- contact-icon info-->
                          <div class="contact-icon-info">
                             <h5>Chame-nos</h5>
-                            <p>(16) 3252-8999</p>
+                            <p>(16) 3253-8999</p>
                          </div>
                       </div>
                       <!-- /contact-icon-->

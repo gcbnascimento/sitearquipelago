@@ -7,7 +7,7 @@
             <div class="container" >
                <!-- jumbo-heading -->
                <div class="jumbo-heading" data-aos="fade-down">
-                  <h1>Sobre nós</h1>
+                  <h1>Sobre Nós</h1>
                   <!-- Breadcrumbs -->
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
@@ -65,6 +65,7 @@
                            <div class="col-lg-8">
                               <h4 class="mt-3">Venha conosco, você vai se surpreender!</h4>
                               <p class="res-margin" align="right">____________________<br>Daniel C. Bichiatto <br> CEO Super Gênio</p>
+							  <p class="res-margin" align="right">____________________<br>Vivian Tieso <br> Pedagoga</p>
                               <a href="contato.php"  class="btn btn-tertiary">Contate-nos</a>
                            </div>
                            <!-- /col-lg-->

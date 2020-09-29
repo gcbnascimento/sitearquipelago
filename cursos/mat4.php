@@ -13,7 +13,7 @@
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a>Home</a></li>
                         <li class="breadcrumb-item"><a>Cursos</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Matemática 1º Ano</li>
+                        <li class="breadcrumb-item active" aria-current="page">Matemática 4º Ano</li>
                      </ol>
                   </nav>
                   <!-- /breadcrumb -->
@@ -32,9 +32,9 @@
                      <div class="col-md-12">
                         <h2>Matemática 4º Ano</h2>
                         <!-- Image -->
-                        <p class="h7">Para alunos de 6 a 8 anos.</p>
-                        <p> Este curso foi desenvolvido especialmente para oferecer ao aluno um ensino de forma dinâmica e divertida, 
-                           com o objetivo de aprimorar e desenvolver ainda mais seu aprendizado e caso o aluno tenha dificuldade em alguma matéria este curso é perfeito.</p>
+                        <p class="h7">Para alunos de 9 e 10 anos.</p>
+                        <p> Com conteúdo feito de acordo com a BNCC, nosso curso garante um aprendizado lúdico e significativo, 
+						respeitando o ritmo e a individualidade de cada criança, para que ela realmente tenha prazer e alegria em aprender.</p>
                         <!-- row -->
                         <div class="row">
                            <div class="col-md-5">
@@ -71,18 +71,18 @@
                                     <div id="collapseOne" class="collapse" data-parent=".accordion">
                                        <div class="card-body">
                                           <ul class="custom pl-0">
-                                             <li>Aula 1: Como foi Surgindo os Sistemas de Numeração.</li>
+                                             <li>Aula 1: Sistema de Numeração Romano.</li>
                                              <li>Aula 2: Sistema Monetário.</li>
                                              <li>Aula 3: Adição e Subtração de Valores Simples.</li>
                                              <li>Aula 4: Estimativa.</li>
-                                             <li>Aula 5: Números Naturais.</li>
+                                             <li>Aula 5: Números Naturais - Antecessor e Sucessor.</li>
                                              <li>Aula 6: Maior que, Menor que e Igual.</li>
                                              <li>Aula 7: Arredondamentos.</li>
                                              <li>Aula 8: Formas Geométricas.</li>
                                              <li>Aula 9: Polígonos.</li>
                                              <li>Aula 10: Ordens e Classes dos Números.</li>
                                              <li>Aula 11: Números Ordinais.</li>
-                                             <li>Aula 12: Números Naturais.</li>
+                                             <li>Aula 12: Adição de Números Naturais.</li>
                                              <li>Aula 13: Subtração de Números Naturais.</li>
                                              <li>Aula 14: Multiplicação de Números Naturais.</li>
                                              <li>Aula 15: Multiplicação por 10, 100 e 1000.</li>
@@ -106,16 +106,16 @@
                                              <li>Aula 19: Estatística e Gráficos.</li>
                                              <li>Aula 20: História da Fração.</li>
                                              <li>Aula 21: Simplificando Frações.</li>
-                                             <li>Aula 22: Adição e Subtração de Frações.</li>
+                                             <li>Aula 22: Simplificando Frações e Frações Equivalentes.</li>
                                              <li>Aula 23: Números Decimais.</li>
-                                             <li>Aula 24: Números Decimais: Centésimos e Milésimos.</li>
+                                             <li>Aula 24: Números Decimais: Centésimo e Milésimo.</li>
                                              <li>Aula 25: Grandezas e Medidas.</li>
                                              <li>Aula 26: Construindo a Geometria.</li>
                                              <li>Aula 27: Perímetro.</li>
                                              <li>Aula 28: Medindo Temperaturas.</li>
                                              <li>Aula 29: Sistema Monetário.</li>
                                              <li>Aula 30: Porcentagem.</li>
-                                             <li>Aula 31: Infográficos e Tabelas.</li>
+                                             <li>Aula 31: Tratamento de Informações.</li>
                                              <li>Aula 32: Estratégias de Cálculos Mentais</li>
                                               </ul>   </div>
                                     </div>
@@ -133,10 +133,10 @@
                                           <ul class="custom pl-0">
                                              <li>Aula 33: Probabilidade e Possibilidade.</li>
                                              <li>Aula 34: Múltiplos e Divisores.</li>
-                                             <li>Aula 35: Mínimo Múltiplo Comum.</li>
+                                             <li>Aula 35: Mínimo Múltiplo Comum / Máximo Divisor Comum.</li>
                                              <li>Aula 36: Potenciação.</li>
                                              <li>Aula 37: Radiciação.</li>
-                                             <li>Aula 38: Frações: Própria, Imprópria, Aparente e Números Mistos.</li>
+                                             <li>Aula 38: Tipos de Frações.</li>
                                              <li>Aula 39: Revisão das Quatro Operações Matemáticas.</li>
                                              <li>Aula 40: Problemas.</li>
                                              <li>Aula 41: Revisão Sistema Decimal.</li>
@@ -146,7 +146,7 @@
                                              <li>Aula 45: Raciocínio Lógico.</li>
                                              <li>Aula 46: Retas.</li>
                                              <li>Aula 47: Ângulos.</li>
-                                             <li>Aula 48: Área das Figuras Geométricas</li>
+                                             <li>Aula 48: Cálculo da Área</li>
                                               </ul>   </div>
                                     </div>
                                  </div>

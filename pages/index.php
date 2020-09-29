@@ -32,7 +32,7 @@
                         <!--the div below is hidden on small screens  -->
                         <div class="hidden-small">
                            <p class="header-p">Somos a <b>única</b> escola especializada em crianças com dificuldades de aprendizagem, ou com laudo de Dislexia, Autismo, TDAH, entre outros.</p>
-                           <a class="btn btn-secondary" href="contact.html">Saiba mais</a>
+                           
                         </div>
                         <!--/hidden-small -->
                      </div>
@@ -225,7 +225,7 @@
                                  <i class="flaticon-maternity text-primary"></i>
                               </div>
                               <h5>Motivação</h5>
-                              <p>Aqui seu filho quer voltar.</p>
+                              <p>Aqui seu filho quer voltar. A todo tempo os professores motivam os alunos.</p>
                            </div>
                            <!-- /feature-with-icon-->
                            <!-- feature -->
@@ -235,7 +235,7 @@
                                  <i class="flaticon-open-book-1 text-primary"></i>
                               </div>
                               <h5>Inovação</h5>
-                              <p>Metodologia única e exclusiva.</p>
+                              <p>Metodologia única e exclusiva. Estamos sempre inovando e acompanhando a evolução humana.</p>
                            </div>
                            <!-- /feature-with-icon-->
                         </div>
@@ -257,7 +257,7 @@
                                  <i class="flaticon-baby-boy text-primary"></i>
                               </div>
                               <h5>Segurança</h5>
-                              <p>Segurança de um grupo que está há mais de 20 anos no mercado.</p>
+                              <p>Segurança de quem está a mais de 20 anos no mercado de cursos e educação.</p>
                            </div>
                            <!-- /feature-with-icon-->
                         </div>
@@ -279,7 +279,7 @@
 
          <div class="container block-padding">
                <!-- Team style 3 -->
-               <h3 class="text-center">O que os alunos dizem:</h3>
+               <h3 class="text-center">O que as mães dizem:</h3>
                <!-- team carousel -->  
                <div class="carousel-3items owl-carousel owl-theme mt-5 col-md-12">
                   <!-- Team member 1 -->
@@ -481,64 +481,14 @@
 
          </section>
    <br>
-   <br>
-    <br>
-   <br>
-         <section id="counter-section" class="container-fluid counter-calltoaction bg-fixed overlay"  data-100-bottom="background-position: 50% 100px;"
-            data-top-bottom="background-position: 50% -100px;" >
-            <div id="counter" class="container">
-               <div  class="row col-lg-10 offset-lg-1">
-                  <!-- Counter -->
-                  <div class="col-xl-4 col-md-4">
-                     <div class="counter">
-                        <div class="counter-wrapper bg-primary">
-                           <i class="counter-icon flaticon-teacher"></i>
-                           <!-- insert your final value on data-count= -->
-                           <div class="counter-value" data-count="40">0</div>
-                           <h3 class="title">Profissionais</h3>
-                        </div>
-                     </div>
-                     <!-- /counter -->
-                  </div>
-                  <!-- /col-lg -->
-                  <!-- Counter -->
-                  <div class="col-xl-4 col-md-4">
-                     <div class="counter">
-                        <div class="counter-wrapper bg-secondary">
-                           <i class="counter-icon  flaticon-family"></i>
-                           <!-- insert your final value on data-count= -->
-                           <div class="counter-value" data-count="500">0</div>
-                           <h3 class="title">Familiares Felizes</h3>
-                        </div>
-                     </div>
-                     <!-- /counter -->
-                  </div>
-                  <!-- /col-lg -->
-                  <!-- Counter -->
-                  <div class="col-xl-4 col-md-4">
-                     <div class="counter">
-                        <div class="counter-wrapper bg-tertiary">
-                           <i class="counter-icon flaticon-children"></i>
-                           <!-- insert your final value on data-count= -->
-                           <div class="counter-value" data-count="1000">0</div>
-                           <h3 class="title">Estudantes</h3>
-                        </div>
-                     </div>
-                     <!-- /counter -->
-                  </div>
-                  <!-- /col-lg -->		 
-               </div>
-               <!-- /row -->
-            </div>
-            <!-- /container -->
-         </section>
+  
       
          <section id="services-home" class="container-fluid">
             <div class="container pb-5">
                <!-- section heading -->  
                <div class="section-heading text-center">
                   <h2>OUTROS DIFERENCIAIS:</h2>
-                  <p class="subtitle">MAIS DE 27 ANOS DE EXPERIÊNCIA ENSINANDO COM AMOR E CARINHO</p>
+                  <p class="subtitle">MAIS DE 20 ANOS DE EXPERIÊNCIA ENSINANDO COM AMOR E CARINHO</p>
                </div>
                <!-- /section heading -->
                <!-- row -->
@@ -709,7 +659,7 @@
                   </p>
                   <ul class="checkmark pl-0 font-weight-bold">
                      <li>Profissionais treinados e qualificados.</li>
-                     <li>Oferecemos nossos serviços de qualidade desde 1992.</li>
+                     <li>Oferecemos nossos serviços de qualidade desde 1997.</li>
                      <li>Atividades divertidas e educacionais em nosso plano diário.</li>
                   </ul>
                   <!-- /ul-->
